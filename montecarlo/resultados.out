@@ -1,0 +1,3890 @@
+slurmstepd: info: Setting TMPDIR to /scratch/4507314. Previous errors about TMPDIR can be discarded
+Ejecutando con 1 procesadores
+Node 0 (of 1) starting.
+Node 0 (of 1) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.940000e-07 seconds.
+Local 0 approx of PI with 1000000000 iterations:
+	-is 3.141309
+	-has an error -2.840874e-04
+	-took 2.031275e+01 seconds
+	-quality -1.732923e+02
+Global approx of PI with 1000000000 iterations:
+	-is 3.141309
+	-has an error -2.840874e-04
+	-took 2.031276e+01 seconds
+	-quality -1.732922e+02
+Ejecutando con 2 procesadores
+Node 0 (of 2) starting.
+Node 0 (of 2) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.730000e-07 seconds.
+Local 0 approx of PI with 500000000 iterations:
+	-is 3.141107
+	-has an error -4.851828e-04
+	-took 1.014245e+01 seconds
+	-quality -2.032131e+02
+Global approx of PI with 500000000 iterations:
+	-is 3.141305
+	-has an error -2.879069e-04
+	-took 1.016849e+01 seconds
+	-quality -3.415793e+02
+Node 1 (of 2) starting.
+Node 1 (of 2) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.600000e-07 seconds.
+Local 1 approx of PI with 500000000 iterations:
+	-is 3.141502
+	-has an error -9.063108e-05
+	-took 1.014511e+01 seconds
+	-quality -1.087592e+03
+Ejecutando con 3 procesadores
+Node 1 (of 3) starting.
+Node 1 (of 3) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.900000e-07 seconds.
+Local 1 approx of PI with 333333333 iterations:
+	-is 3.141170
+	-has an error -4.226868e-04
+	-took 6.817098e+00 seconds
+	-quality -3.470418e+02
+Node 2 (of 3) starting.
+Node 2 (of 3) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.090000e-07 seconds.
+Local 2 approx of PI with 333333333 iterations:
+	-is 3.142049
+	-has an error 4.563085e-04
+	-took 6.756156e+00 seconds
+	-quality 3.243708e+02
+Node 0 (of 3) starting.
+Node 0 (of 3) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.030000e-07 seconds.
+Local 0 approx of PI with 333333333 iterations:
+	-is 3.141789
+	-has an error 1.960593e-04
+	-took 9.051194e+00 seconds
+	-quality 5.635164e+02
+Global approx of PI with 333333333 iterations:
+	-is 3.141669
+	-has an error 7.655721e-05
+	-took 9.051320e+00 seconds
+	-quality 1.443119e+03
+Ejecutando con 4 procesadores
+Node 1 (of 4) starting.
+Node 1 (of 4) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.890000e-07 seconds.
+Local 1 approx of PI with 250000000 iterations:
+	-is 3.142423
+	-has an error 8.301881e-04
+	-took 5.112310e+00 seconds
+	-quality 2.356168e+02
+Node 2 (of 4) starting.
+Node 2 (of 4) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.460000e-07 seconds.
+Local 2 approx of PI with 250000000 iterations:
+	-is 3.140895
+	-has an error -6.975768e-04
+	-took 6.035016e+00 seconds
+	-quality -2.375361e+02
+Node 0 (of 4) starting.
+Node 0 (of 4) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.860000e-07 seconds.
+Local 0 approx of PI with 250000000 iterations:
+	-is 3.142071
+	-has an error 4.782954e-04
+	-took 5.112355e+00 seconds
+	-quality 4.089619e+02
+Global approx of PI with 250000000 iterations:
+	-is 3.141719
+	-has an error 1.265945e-04
+	-took 6.044738e+00 seconds
+	-quality 1.306795e+03
+Node 3 (of 4) starting.
+Node 3 (of 4) has time resolution of 1.000000e-09 seconds and a measure overhead of 5.750000e-07 seconds.
+Local 3 approx of PI with 250000000 iterations:
+	-is 3.141488
+	-has an error -1.045286e-04
+	-took 5.062320e+00 seconds
+	-quality -1.889797e+03
+Ejecutando con 5 procesadores
+Node 1 (of 5) starting.
+Node 1 (of 5) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.690000e-07 seconds.
+Local 1 approx of PI with 200000000 iterations:
+	-is 3.141213
+	-has an error -3.799793e-04
+	-took 4.099843e+00 seconds
+	-quality -6.419081e+02
+Node 3 (of 5) starting.
+Node 3 (of 5) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.500000e-07 seconds.
+Local 3 approx of PI with 200000000 iterations:
+	-is 3.142332
+	-has an error 7.392556e-04
+	-took 4.063300e+00 seconds
+	-quality 3.329097e+02
+Node 2 (of 5) starting.
+Node 2 (of 5) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.660000e-07 seconds.
+Local 2 approx of PI with 200000000 iterations:
+	-is 3.141728
+	-has an error 1.354529e-04
+	-took 4.025395e+00 seconds
+	-quality 1.834016e+03
+Node 0 (of 5) starting.
+Node 0 (of 5) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.520000e-07 seconds.
+Local 0 approx of PI with 200000000 iterations:
+	-is 3.141429
+	-has an error -1.632496e-04
+	-took 4.072028e+00 seconds
+	-quality -1.504309e+03
+Global approx of PI with 200000000 iterations:
+	-is 3.141613
+	-has an error 2.082416e-05
+	-took 4.099686e+00 seconds
+	-quality 1.171337e+04
+Node 4 (of 5) starting.
+Node 4 (of 5) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.130000e-07 seconds.
+Local 4 approx of PI with 200000000 iterations:
+	-is 3.141365
+	-has an error -2.273589e-04
+	-took 4.061850e+00 seconds
+	-quality -1.082840e+03
+Ejecutando con 6 procesadores
+Node 1 (of 6) starting.
+Node 1 (of 6) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.660000e-07 seconds.
+Local 1 approx of PI with 166666666 iterations:
+	-is 3.141580
+	-has an error -1.220869e-05
+	-took 3.440777e+00 seconds
+	-quality -2.380535e+04
+Node 5 (of 6) starting.
+Node 5 (of 6) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.630000e-07 seconds.
+Local 5 approx of PI with 166666666 iterations:
+	-is 3.140972
+	-has an error -6.202327e-04
+	-took 3.368928e+00 seconds
+	-quality -4.785790e+02
+Node 2 (of 6) starting.
+Node 2 (of 6) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.990000e-07 seconds.
+Local 2 approx of PI with 166666666 iterations:
+	-is 3.141830
+	-has an error 2.371790e-04
+	-took 3.441540e+00 seconds
+	-quality 1.225098e+03
+Node 0 (of 6) starting.
+Node 0 (of 6) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.870000e-07 seconds.
+Local 0 approx of PI with 166666666 iterations:
+	-is 3.142322
+	-has an error 7.289362e-04
+	-took 3.439450e+00 seconds
+	-quality 3.988609e+02
+Global approx of PI with 166666666 iterations:
+	-is 3.141789
+	-has an error 1.960915e-04
+	-took 4.273123e+00 seconds
+	-quality 1.193427e+03
+Node 3 (of 6) starting.
+Node 3 (of 6) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.490000e-07 seconds.
+Local 3 approx of PI with 166666666 iterations:
+	-is 3.141098
+	-has an error -4.941942e-04
+	-took 3.379857e+00 seconds
+	-quality -5.986928e+02
+Node 4 (of 6) starting.
+Node 4 (of 6) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.380000e-07 seconds.
+Local 4 approx of PI with 166666666 iterations:
+	-is 3.142930
+	-has an error 1.337145e-03
+	-took 4.263493e+00 seconds
+	-quality 1.754106e+02
+Ejecutando con 7 procesadores
+Node 1 (of 7) starting.
+Node 1 (of 7) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.880000e-07 seconds.
+Local 1 approx of PI with 142857142 iterations:
+	-is 3.141029
+	-has an error -5.637047e-04
+	-took 2.893513e+00 seconds
+	-quality -6.130881e+02
+Node 4 (of 7) starting.
+Node 4 (of 7) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.090000e-07 seconds.
+Local 4 approx of PI with 142857142 iterations:
+	-is 3.140697
+	-has an error -8.954920e-04
+	-took 2.888195e+00 seconds
+	-quality -3.866445e+02
+Node 3 (of 7) starting.
+Node 3 (of 7) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.980000e-07 seconds.
+Local 3 approx of PI with 142857142 iterations:
+	-is 3.141419
+	-has an error -1.738075e-04
+	-took 2.883818e+00 seconds
+	-quality -1.995095e+03
+Node 2 (of 7) starting.
+Node 2 (of 7) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.640000e-07 seconds.
+Local 2 approx of PI with 142857142 iterations:
+	-is 3.141304
+	-has an error -2.885114e-04
+	-took 2.895467e+00 seconds
+	-quality -1.197067e+03
+Node 0 (of 7) starting.
+Node 0 (of 7) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.940000e-07 seconds.
+Local 0 approx of PI with 142857142 iterations:
+	-is 3.143155
+	-has an error 1.561921e-03
+	-took 2.895562e+00 seconds
+	-quality 2.211099e+02
+Global approx of PI with 142857142 iterations:
+	-is 3.141570
+	-has an error -2.228368e-05
+	-took 2.912448e+00 seconds
+	-quality -1.540830e+04
+Node 6 (of 7) starting.
+Node 6 (of 7) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.420000e-07 seconds.
+Local 6 approx of PI with 142857142 iterations:
+	-is 3.141534
+	-has an error -5.819922e-05
+	-took 2.899132e+00 seconds
+	-quality -5.926725e+03
+Node 5 (of 7) starting.
+Node 5 (of 7) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.500000e-07 seconds.
+Local 5 approx of PI with 142857142 iterations:
+	-is 3.141855
+	-has an error 2.619404e-04
+	-took 2.897346e+00 seconds
+	-quality 1.317641e+03
+Ejecutando con 8 procesadores
+Node 1 (of 8) starting.
+Node 1 (of 8) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.840000e-07 seconds.
+Local 1 approx of PI with 125000000 iterations:
+	-is 3.141887
+	-has an error 2.942266e-04
+	-took 2.533117e+00 seconds
+	-quality 1.341723e+03
+Node 4 (of 8) starting.
+Node 4 (of 8) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.880000e-07 seconds.
+Local 4 approx of PI with 125000000 iterations:
+	-is 3.141041
+	-has an error -5.516952e-04
+	-took 2.535603e+00 seconds
+	-quality -7.148577e+02
+Node 3 (of 8) starting.
+Node 3 (of 8) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.700000e-07 seconds.
+Local 3 approx of PI with 125000000 iterations:
+	-is 3.141902
+	-has an error 3.094001e-04
+	-took 2.487981e+00 seconds
+	-quality 1.299070e+03
+Node 2 (of 8) starting.
+Node 2 (of 8) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.030000e-07 seconds.
+Local 2 approx of PI with 125000000 iterations:
+	-is 3.141522
+	-has an error -7.026342e-05
+	-took 2.588440e+00 seconds
+	-quality -5.498352e+03
+Node 0 (of 8) starting.
+Node 0 (of 8) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.960000e-07 seconds.
+Local 0 approx of PI with 125000000 iterations:
+	-is 3.140649
+	-has an error -9.437498e-04
+	-took 2.533539e+00 seconds
+	-quality -4.182303e+02
+Global approx of PI with 125000000 iterations:
+	-is 3.141503
+	-has an error -8.945181e-05
+	-took 2.588656e+00 seconds
+	-quality -4.318535e+03
+Node 7 (of 8) starting.
+Node 7 (of 8) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.090000e-07 seconds.
+Local 7 approx of PI with 125000000 iterations:
+	-is 3.142622
+	-has an error 1.029185e-03
+	-took 2.527168e+00 seconds
+	-quality 3.844789e+02
+Node 5 (of 8) starting.
+Node 5 (of 8) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.590000e-07 seconds.
+Local 5 approx of PI with 125000000 iterations:
+	-is 3.141307
+	-has an error -2.851852e-04
+	-took 2.519839e+00 seconds
+	-quality -1.391555e+03
+Node 6 (of 8) starting.
+Node 6 (of 8) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.870000e-07 seconds.
+Local 6 approx of PI with 125000000 iterations:
+	-is 3.141095
+	-has an error -4.975323e-04
+	-took 2.538857e+00 seconds
+	-quality -7.916633e+02
+Ejecutando con 9 procesadores
+Node 4 (of 9) starting.
+Node 4 (of 9) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.860000e-07 seconds.
+Local 4 approx of PI with 111111111 iterations:
+	-is 3.142679
+	-has an error 1.086633e-03
+	-took 2.294850e+00 seconds
+	-quality 4.010170e+02
+Node 5 (of 9) starting.
+Node 5 (of 9) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.970000e-07 seconds.
+Local 5 approx of PI with 111111111 iterations:
+	-is 3.141765
+	-has an error 1.726076e-04
+	-took 2.254177e+00 seconds
+	-quality 2.570112e+03
+Node 3 (of 9) starting.
+Node 3 (of 9) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.560000e-07 seconds.
+Local 3 approx of PI with 111111111 iterations:
+	-is 3.141084
+	-has an error -5.088890e-04
+	-took 2.365444e+00 seconds
+	-quality -8.307385e+02
+Node 2 (of 9) starting.
+Node 2 (of 9) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.070000e-07 seconds.
+Local 2 approx of PI with 111111111 iterations:
+	-is 3.141353
+	-has an error -2.397909e-04
+	-took 2.255155e+00 seconds
+	-quality -1.849230e+03
+Node 1 (of 9) starting.
+Node 1 (of 9) has time resolution of 1.000000e-09 seconds and a measure overhead of 5.450000e-07 seconds.
+Local 1 approx of PI with 111111111 iterations:
+	-is 3.141206
+	-has an error -3.863695e-04
+	-took 2.366864e+00 seconds
+	-quality -1.093513e+03
+Node 0 (of 9) starting.
+Node 0 (of 9) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.590000e-07 seconds.
+Local 0 approx of PI with 111111111 iterations:
+	-is 3.141904
+	-has an error 3.110453e-04
+	-took 2.367346e+00 seconds
+	-quality 1.358047e+03
+Global approx of PI with 111111111 iterations:
+	-is 3.141709
+	-has an error 1.161254e-04
+	-took 2.380719e+00 seconds
+	-quality 3.617133e+03
+Node 8 (of 9) starting.
+Node 8 (of 9) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.290000e-07 seconds.
+Local 8 approx of PI with 111111111 iterations:
+	-is 3.142440
+	-has an error 8.469226e-04
+	-took 2.253141e+00 seconds
+	-quality 5.240443e+02
+Node 7 (of 9) starting.
+Node 7 (of 9) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.460000e-07 seconds.
+Local 7 approx of PI with 111111111 iterations:
+	-is 3.141573
+	-has an error -1.956448e-05
+	-took 2.254708e+00 seconds
+	-quality -2.266948e+04
+Node 6 (of 9) starting.
+Node 6 (of 9) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.440000e-07 seconds.
+Local 6 approx of PI with 111111111 iterations:
+	-is 3.141375
+	-has an error -2.174374e-04
+	-took 2.254903e+00 seconds
+	-quality -2.039566e+03
+Ejecutando con 10 procesadores
+Node 1 (of 10) starting.
+Node 1 (of 10) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.900000e-07 seconds.
+Local 1 approx of PI with 100000000 iterations:
+	-is 3.142838
+	-has an error 1.245432e-03
+	-took 2.034613e+00 seconds
+	-quality 3.946372e+02
+Node 7 (of 10) starting.
+Node 7 (of 10) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.340000e-07 seconds.
+Local 7 approx of PI with 100000000 iterations:
+	-is 3.141632
+	-has an error 3.967996e-05
+	-took 2.028424e+00 seconds
+	-quality 1.242425e+04
+Node 2 (of 10) starting.
+Node 2 (of 10) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.830000e-07 seconds.
+Local 2 approx of PI with 100000000 iterations:
+	-is 3.141585
+	-has an error -7.664021e-06
+	-took 2.026474e+00 seconds
+	-quality -6.438760e+04
+Node 4 (of 10) starting.
+Node 4 (of 10) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.340000e-07 seconds.
+Local 4 approx of PI with 100000000 iterations:
+	-is 3.141581
+	-has an error -1.142527e-05
+	-took 2.025422e+00 seconds
+	-quality -4.321334e+04
+Node 3 (of 10) starting.
+Node 3 (of 10) has time resolution of 1.000000e-09 seconds and a measure overhead of 5.980000e-07 seconds.
+Local 3 approx of PI with 100000000 iterations:
+	-is 3.141518
+	-has an error -7.501338e-05
+	-took 2.076608e+00 seconds
+	-quality -6.419580e+03
+Node 0 (of 10) starting.
+Node 0 (of 10) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.250000e-07 seconds.
+Local 0 approx of PI with 100000000 iterations:
+	-is 3.141039
+	-has an error -5.532229e-04
+	-took 2.026908e+00 seconds
+	-quality -8.917966e+02
+Global approx of PI with 100000000 iterations:
+	-is 3.141794
+	-has an error 2.008989e-04
+	-took 2.076720e+00 seconds
+	-quality 2.396870e+03
+Node 8 (of 10) starting.
+Node 8 (of 10) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.160000e-07 seconds.
+Local 8 approx of PI with 100000000 iterations:
+	-is 3.142121
+	-has an error 5.286966e-04
+	-took 2.028475e+00 seconds
+	-quality 9.324461e+02
+Node 9 (of 10) starting.
+Node 9 (of 10) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.310000e-07 seconds.
+Local 9 approx of PI with 100000000 iterations:
+	-is 3.141079
+	-has an error -5.140725e-04
+	-took 2.029176e+00 seconds
+	-quality -9.586409e+02
+Node 6 (of 10) starting.
+Node 6 (of 10) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.510000e-07 seconds.
+Local 6 approx of PI with 100000000 iterations:
+	-is 3.142021
+	-has an error 4.284288e-04
+	-took 2.029404e+00 seconds
+	-quality 1.150145e+03
+Node 5 (of 10) starting.
+Node 5 (of 10) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.850000e-07 seconds.
+Local 5 approx of PI with 100000000 iterations:
+	-is 3.142521
+	-has an error 9.281496e-04
+	-took 2.028201e+00 seconds
+	-quality 5.312159e+02
+Ejecutando con 11 procesadores
+Node 5 (of 11) starting.
+Node 5 (of 11) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.110000e-07 seconds.
+Local 5 approx of PI with 90909090 iterations:
+	-is 3.142389
+	-has an error 7.965693e-04
+	-took 1.966582e+00 seconds
+	-quality 6.383582e+02
+Node 7 (of 11) starting.
+Node 7 (of 11) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.740000e-07 seconds.
+Local 7 approx of PI with 90909090 iterations:
+	-is 3.140943
+	-has an error -6.493835e-04
+	-took 1.843747e+00 seconds
+	-quality -8.352132e+02
+Node 3 (of 11) starting.
+Node 3 (of 11) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.280000e-07 seconds.
+Local 3 approx of PI with 90909090 iterations:
+	-is 3.142218
+	-has an error 6.253357e-04
+	-took 1.841681e+00 seconds
+	-quality 8.683052e+02
+Node 2 (of 11) starting.
+Node 2 (of 11) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.400000e-07 seconds.
+Local 2 approx of PI with 90909090 iterations:
+	-is 3.142197
+	-has an error 6.045498e-04
+	-took 1.835891e+00 seconds
+	-quality 9.009920e+02
+Node 4 (of 11) starting.
+Node 4 (of 11) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.450000e-07 seconds.
+Local 4 approx of PI with 90909090 iterations:
+	-is 3.141738
+	-has an error 1.453803e-04
+	-took 1.935351e+00 seconds
+	-quality 3.554143e+03
+Node 1 (of 11) starting.
+Node 1 (of 11) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.060000e-07 seconds.
+Local 1 approx of PI with 90909090 iterations:
+	-is 3.141813
+	-has an error 2.204243e-04
+	-took 1.841999e+00 seconds
+	-quality 2.462925e+03
+Node 0 (of 11) starting.
+Node 0 (of 11) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.300000e-07 seconds.
+Local 0 approx of PI with 90909090 iterations:
+	-is 3.141625
+	-has an error 3.218330e-05
+	-took 1.935488e+00 seconds
+	-quality 1.605384e+04
+Global approx of PI with 90909090 iterations:
+	-is 3.141794
+	-has an error 2.010245e-04
+	-took 2.563805e+00 seconds
+	-quality 1.940288e+03
+Node 9 (of 11) starting.
+Node 9 (of 11) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.710000e-07 seconds.
+Local 9 approx of PI with 90909090 iterations:
+	-is 3.141590
+	-has an error -3.017920e-06
+	-took 1.843470e+00 seconds
+	-quality -1.797447e+05
+Node 6 (of 11) starting.
+Node 6 (of 11) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.920000e-07 seconds.
+Local 6 approx of PI with 90909090 iterations:
+	-is 3.141231
+	-has an error -3.611901e-04
+	-took 1.838216e+00 seconds
+	-quality -1.506147e+03
+Node 10 (of 11) starting.
+Node 10 (of 11) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.700000e-07 seconds.
+Local 10 approx of PI with 90909090 iterations:
+	-is 3.142251
+	-has an error 6.587698e-04
+	-took 2.554811e+00 seconds
+	-quality 5.941657e+02
+Node 8 (of 11) starting.
+Node 8 (of 11) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.660000e-07 seconds.
+Local 8 approx of PI with 90909090 iterations:
+	-is 3.141735
+	-has an error 1.419940e-04
+	-took 1.843813e+00 seconds
+	-quality 3.819560e+03
+Ejecutando con 12 procesadores
+Node 5 (of 12) starting.
+Node 5 (of 12) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.920000e-07 seconds.
+Local 5 approx of PI with 83333333 iterations:
+	-is 3.142345
+	-has an error 7.523665e-04
+	-took 1.692843e+00 seconds
+	-quality 7.851522e+02
+Node 10 (of 12) starting.
+Node 10 (of 12) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.350000e-07 seconds.
+Local 10 approx of PI with 83333333 iterations:
+	-is 3.142567
+	-has an error 9.742786e-04
+	-took 1.696051e+00 seconds
+	-quality 6.051709e+02
+Node 4 (of 12) starting.
+Node 4 (of 12) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.980000e-07 seconds.
+Local 4 approx of PI with 83333333 iterations:
+	-is 3.141963
+	-has an error 3.703296e-04
+	-took 1.700930e+00 seconds
+	-quality 1.587542e+03
+Node 1 (of 12) starting.
+Node 1 (of 12) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.400000e-07 seconds.
+Local 1 approx of PI with 83333333 iterations:
+	-is 3.141474
+	-has an error -1.185702e-04
+	-took 1.701409e+00 seconds
+	-quality -4.956966e+03
+Node 3 (of 12) starting.
+Node 3 (of 12) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.170000e-07 seconds.
+Local 3 approx of PI with 83333333 iterations:
+	-is 3.141840
+	-has an error 2.478017e-04
+	-took 1.702142e+00 seconds
+	-quality 2.370827e+03
+Node 2 (of 12) starting.
+Node 2 (of 12) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.070000e-07 seconds.
+Local 2 approx of PI with 83333333 iterations:
+	-is 3.141035
+	-has an error -5.573107e-04
+	-took 1.701396e+00 seconds
+	-quality -1.054623e+03
+Node 0 (of 12) starting.
+Node 0 (of 12) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.840000e-07 seconds.
+Local 0 approx of PI with 83333333 iterations:
+	-is 3.142364
+	-has an error 7.711308e-04
+	-took 1.699012e+00 seconds
+	-quality 7.632651e+02
+Global approx of PI with 83333333 iterations:
+	-is 3.141829
+	-has an error 2.365100e-04
+	-took 2.019408e+00 seconds
+	-quality 2.093758e+03
+Node 11 (of 12) starting.
+Node 11 (of 12) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.220000e-07 seconds.
+Local 11 approx of PI with 83333333 iterations:
+	-is 3.140865
+	-has an error -7.273155e-04
+	-took 1.690221e+00 seconds
+	-quality -8.134554e+02
+Node 7 (of 12) starting.
+Node 7 (of 12) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.730000e-07 seconds.
+Local 7 approx of PI with 83333333 iterations:
+	-is 3.141860
+	-has an error 2.670912e-04
+	-took 2.009380e+00 seconds
+	-quality 1.863281e+03
+Node 8 (of 12) starting.
+Node 8 (of 12) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.440000e-07 seconds.
+Local 8 approx of PI with 83333333 iterations:
+	-is 3.141967
+	-has an error 3.746373e-04
+	-took 1.689641e+00 seconds
+	-quality 1.579773e+03
+Node 6 (of 12) starting.
+Node 6 (of 12) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.570000e-07 seconds.
+Local 6 approx of PI with 83333333 iterations:
+	-is 3.143331
+	-has an error 1.738761e-03
+	-took 1.690324e+00 seconds
+	-quality 3.402438e+02
+Node 9 (of 12) starting.
+Node 9 (of 12) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.590000e-07 seconds.
+Local 9 approx of PI with 83333333 iterations:
+	-is 3.140338
+	-has an error -1.254929e-03
+	-took 1.690573e+00 seconds
+	-quality -4.713535e+02
+Ejecutando con 13 procesadores
+Node 2 (of 13) starting.
+Node 2 (of 13) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.910000e-07 seconds.
+Local 2 approx of PI with 76923076 iterations:
+	-is 3.142066
+	-has an error 4.730884e-04
+	-took 1.605256e+00 seconds
+	-quality 1.316781e+03
+Node 12 (of 13) starting.
+Node 12 (of 13) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.430000e-07 seconds.
+Local 12 approx of PI with 76923076 iterations:
+	-is 3.141395
+	-has an error -1.980926e-04
+	-took 1.561096e+00 seconds
+	-quality -3.233718e+03
+Node 1 (of 13) starting.
+Node 1 (of 13) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.920000e-07 seconds.
+Local 1 approx of PI with 76923076 iterations:
+	-is 3.142048
+	-has an error 4.557185e-04
+	-took 1.608120e+00 seconds
+	-quality 1.364536e+03
+Node 4 (of 13) starting.
+Node 4 (of 13) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.880000e-07 seconds.
+Local 4 approx of PI with 76923076 iterations:
+	-is 3.143541
+	-has an error 1.948527e-03
+	-took 1.581829e+00 seconds
+	-quality 3.244397e+02
+Node 6 (of 13) starting.
+Node 6 (of 13) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.420000e-07 seconds.
+Local 6 approx of PI with 76923076 iterations:
+	-is 3.141903
+	-has an error 3.101260e-04
+	-took 1.553888e+00 seconds
+	-quality 2.075115e+03
+Node 5 (of 13) starting.
+Node 5 (of 13) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.890000e-07 seconds.
+Local 5 approx of PI with 76923076 iterations:
+	-is 3.142013
+	-has an error 4.199230e-04
+	-took 1.559249e+00 seconds
+	-quality 1.527266e+03
+Node 3 (of 13) starting.
+Node 3 (of 13) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.460000e-07 seconds.
+Local 3 approx of PI with 76923076 iterations:
+	-is 3.142361
+	-has an error 7.688148e-04
+	-took 1.559084e+00 seconds
+	-quality 8.342741e+02
+Node 0 (of 13) starting.
+Node 0 (of 13) has time resolution of 1.000000e-09 seconds and a measure overhead of 6.530000e-07 seconds.
+Local 0 approx of PI with 76923076 iterations:
+	-is 3.141255
+	-has an error -3.374358e-04
+	-took 1.558535e+00 seconds
+	-quality -1.901482e+03
+Global approx of PI with 76923076 iterations:
+	-is 3.141726
+	-has an error 1.334601e-04
+	-took 2.115298e+00 seconds
+	-quality 3.542231e+03
+Node 9 (of 13) starting.
+Node 9 (of 13) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.470000e-07 seconds.
+Local 9 approx of PI with 76923076 iterations:
+	-is 3.140801
+	-has an error -7.916182e-04
+	-took 1.561386e+00 seconds
+	-quality -8.090474e+02
+Node 10 (of 13) starting.
+Node 10 (of 13) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.510000e-07 seconds.
+Local 10 approx of PI with 76923076 iterations:
+	-is 3.140795
+	-has an error -7.975294e-04
+	-took 1.969417e+00 seconds
+	-quality -6.366717e+02
+Node 11 (of 13) starting.
+Node 11 (of 13) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.520000e-07 seconds.
+Local 11 approx of PI with 76923076 iterations:
+	-is 3.141687
+	-has an error 9.430293e-05
+	-took 2.048481e+00 seconds
+	-quality 5.176579e+03
+Node 8 (of 13) starting.
+Node 8 (of 13) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.280000e-07 seconds.
+Local 8 approx of PI with 76923076 iterations:
+	-is 3.142607
+	-has an error 1.014258e-03
+	-took 2.106203e+00 seconds
+	-quality 4.681137e+02
+Node 7 (of 13) starting.
+Node 7 (of 13) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.990000e-07 seconds.
+Local 7 approx of PI with 76923076 iterations:
+	-is 3.139968
+	-has an error -1.624612e-03
+	-took 1.560258e+00 seconds
+	-quality -3.945063e+02
+Ejecutando con 14 procesadores
+Node 4 (of 14) starting.
+Node 4 (of 14) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.040000e-07 seconds.
+Local 4 approx of PI with 71428571 iterations:
+	-is 3.139970
+	-has an error -1.622984e-03
+	-took 1.586347e+00 seconds
+	-quality -3.884076e+02
+Node 7 (of 14) starting.
+Node 7 (of 14) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.420000e-07 seconds.
+Local 7 approx of PI with 71428571 iterations:
+	-is 3.141092
+	-has an error -5.003513e-04
+	-took 1.450453e+00 seconds
+	-quality -1.377912e+03
+Node 3 (of 14) starting.
+Node 3 (of 14) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.570000e-07 seconds.
+Local 3 approx of PI with 71428571 iterations:
+	-is 3.141923
+	-has an error 3.301734e-04
+	-took 1.586056e+00 seconds
+	-quality 1.909586e+03
+Node 6 (of 14) starting.
+Node 6 (of 14) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.430000e-07 seconds.
+Local 6 approx of PI with 71428571 iterations:
+	-is 3.140695
+	-has an error -8.972967e-04
+	-took 1.594945e+00 seconds
+	-quality -6.987443e+02
+Node 1 (of 14) starting.
+Node 1 (of 14) has time resolution of 1.000000e-09 seconds and a measure overhead of 7.050000e-07 seconds.
+Local 1 approx of PI with 71428571 iterations:
+	-is 3.143994
+	-has an error 2.401781e-03
+	-took 1.587206e+00 seconds
+	-quality 2.623212e+02
+Node 5 (of 14) starting.
+Node 5 (of 14) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.920000e-07 seconds.
+Local 5 approx of PI with 71428571 iterations:
+	-is 3.142604
+	-has an error 1.011147e-03
+	-took 1.587051e+00 seconds
+	-quality 6.231530e+02
+Node 2 (of 14) starting.
+Node 2 (of 14) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.530000e-07 seconds.
+Local 2 approx of PI with 71428571 iterations:
+	-is 3.142162
+	-has an error 5.689673e-04
+	-took 1.588511e+00 seconds
+	-quality 1.106426e+03
+Node 0 (of 14) starting.
+Node 0 (of 14) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.920000e-07 seconds.
+Local 0 approx of PI with 71428571 iterations:
+	-is 3.142485
+	-has an error 8.923705e-04
+	-took 1.586979e+00 seconds
+	-quality 7.061283e+02
+Global approx of PI with 71428571 iterations:
+	-is 3.141697
+	-has an error 1.040653e-04
+	-took 1.594808e+00 seconds
+	-quality 6.025398e+03
+Node 13 (of 14) starting.
+Node 13 (of 14) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.230000e-07 seconds.
+Local 13 approx of PI with 71428571 iterations:
+	-is 3.140649
+	-has an error -9.436099e-04
+	-took 1.471170e+00 seconds
+	-quality -7.203519e+02
+Node 9 (of 14) starting.
+Node 9 (of 14) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.260000e-07 seconds.
+Local 9 approx of PI with 71428571 iterations:
+	-is 3.141368
+	-has an error -2.245683e-04
+	-took 1.451126e+00 seconds
+	-quality -3.068644e+03
+Node 10 (of 14) starting.
+Node 10 (of 14) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.090000e-07 seconds.
+Local 10 approx of PI with 71428571 iterations:
+	-is 3.142343
+	-has an error 7.499376e-04
+	-took 1.450006e+00 seconds
+	-quality 9.196132e+02
+Node 11 (of 14) starting.
+Node 11 (of 14) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.190000e-07 seconds.
+Local 11 approx of PI with 71428571 iterations:
+	-is 3.141160
+	-has an error -4.329489e-04
+	-took 1.462238e+00 seconds
+	-quality -1.579593e+03
+Node 12 (of 14) starting.
+Node 12 (of 14) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.470000e-07 seconds.
+Local 12 approx of PI with 71428571 iterations:
+	-is 3.141482
+	-has an error -1.102004e-04
+	-took 1.450536e+00 seconds
+	-quality -6.255879e+03
+Node 8 (of 14) starting.
+Node 8 (of 14) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.520000e-07 seconds.
+Local 8 approx of PI with 71428571 iterations:
+	-is 3.141827
+	-has an error 2.347602e-04
+	-took 1.450669e+00 seconds
+	-quality 2.936346e+03
+Ejecutando con 15 procesadores
+Node 4 (of 15) starting.
+Node 4 (of 15) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.860000e-07 seconds.
+Local 4 approx of PI with 66666666 iterations:
+	-is 3.140896
+	-has an error -6.968460e-04
+	-took 1.801449e+00 seconds
+	-quality -7.966016e+02
+Node 12 (of 15) starting.
+Node 12 (of 15) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.430000e-07 seconds.
+Local 12 approx of PI with 66666666 iterations:
+	-is 3.142264
+	-has an error 6.709333e-04
+	-took 1.352237e+00 seconds
+	-quality 1.102219e+03
+Node 3 (of 15) starting.
+Node 3 (of 15) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.850000e-07 seconds.
+Local 3 approx of PI with 66666666 iterations:
+	-is 3.142566
+	-has an error 9.729894e-04
+	-took 1.352376e+00 seconds
+	-quality 7.599663e+02
+Node 5 (of 15) starting.
+Node 5 (of 15) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.080000e-07 seconds.
+Local 5 approx of PI with 66666666 iterations:
+	-is 3.140946
+	-has an error -6.465374e-04
+	-took 1.352179e+00 seconds
+	-quality -1.143859e+03
+Node 2 (of 15) starting.
+Node 2 (of 15) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.680000e-07 seconds.
+Local 2 approx of PI with 66666666 iterations:
+	-is 3.140137
+	-has an error -1.455509e-03
+	-took 1.363035e+00 seconds
+	-quality -5.040551e+02
+Node 1 (of 15) starting.
+Node 1 (of 15) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.850000e-07 seconds.
+Local 1 approx of PI with 66666666 iterations:
+	-is 3.141640
+	-has an error 4.726140e-05
+	-took 1.362859e+00 seconds
+	-quality 1.552539e+04
+Node 7 (of 15) starting.
+Node 7 (of 15) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.650000e-07 seconds.
+Local 7 approx of PI with 66666666 iterations:
+	-is 3.141349
+	-has an error -2.431717e-04
+	-took 1.351263e+00 seconds
+	-quality -3.043317e+03
+Node 6 (of 15) starting.
+Node 6 (of 15) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.340000e-07 seconds.
+Local 6 approx of PI with 66666666 iterations:
+	-is 3.141878
+	-has an error 2.848643e-04
+	-took 1.350812e+00 seconds
+	-quality 2.598766e+03
+Node 0 (of 15) starting.
+Node 0 (of 15) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.160000e-07 seconds.
+Local 0 approx of PI with 66666666 iterations:
+	-is 3.142265
+	-has an error 6.721264e-04
+	-took 1.350667e+00 seconds
+	-quality 1.101541e+03
+Global approx of PI with 66666666 iterations:
+	-is 3.141489
+	-has an error -1.036814e-04
+	-took 1.801627e+00 seconds
+	-quality -5.353456e+03
+Node 9 (of 15) starting.
+Node 9 (of 15) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.150000e-07 seconds.
+Local 9 approx of PI with 66666666 iterations:
+	-is 3.140812
+	-has an error -7.803079e-04
+	-took 1.352937e+00 seconds
+	-quality -9.472321e+02
+Node 8 (of 15) starting.
+Node 8 (of 15) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.230000e-07 seconds.
+Local 8 approx of PI with 66666666 iterations:
+	-is 3.142473
+	-has an error 8.802617e-04
+	-took 1.351198e+00 seconds
+	-quality 8.407546e+02
+Node 10 (of 15) starting.
+Node 10 (of 15) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.450000e-07 seconds.
+Local 10 approx of PI with 66666666 iterations:
+	-is 3.141692
+	-has an error 9.938876e-05
+	-took 1.352343e+00 seconds
+	-quality 7.440051e+03
+Node 11 (of 15) starting.
+Node 11 (of 15) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.270000e-07 seconds.
+Local 11 approx of PI with 66666666 iterations:
+	-is 3.140555
+	-has an error -1.038054e-03
+	-took 1.352823e+00 seconds
+	-quality -7.120972e+02
+Node 14 (of 15) starting.
+Node 14 (of 15) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.900000e-07 seconds.
+Local 14 approx of PI with 66666666 iterations:
+	-is 3.142164
+	-has an error 5.714559e-04
+	-took 1.351937e+00 seconds
+	-quality 1.294377e+03
+Node 13 (of 15) starting.
+Node 13 (of 15) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.510000e-07 seconds.
+Local 13 approx of PI with 66666666 iterations:
+	-is 3.140699
+	-has an error -8.936055e-04
+	-took 1.352608e+00 seconds
+	-quality -8.273366e+02
+Ejecutando con 16 procesadores
+Node 5 (of 16) starting.
+Node 5 (of 16) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.860000e-07 seconds.
+Local 5 approx of PI with 62500000 iterations:
+	-is 3.142574
+	-has an error 9.817077e-04
+	-took 1.262087e+00 seconds
+	-quality 8.071019e+02
+Node 13 (of 16) starting.
+Node 13 (of 16) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.440000e-07 seconds.
+Local 13 approx of PI with 62500000 iterations:
+	-is 3.142276
+	-has an error 6.837467e-04
+	-took 1.268378e+00 seconds
+	-quality 1.153071e+03
+Node 6 (of 16) starting.
+Node 6 (of 16) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.060000e-07 seconds.
+Local 6 approx of PI with 62500000 iterations:
+	-is 3.140707
+	-has an error -8.856137e-04
+	-took 1.333251e+00 seconds
+	-quality -8.469224e+02
+Node 1 (of 16) starting.
+Node 1 (of 16) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.690000e-07 seconds.
+Local 1 approx of PI with 62500000 iterations:
+	-is 3.140626
+	-has an error -9.670820e-04
+	-took 1.324420e+00 seconds
+	-quality -7.807479e+02
+Node 2 (of 16) starting.
+Node 2 (of 16) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.810000e-07 seconds.
+Local 2 approx of PI with 62500000 iterations:
+	-is 3.141033
+	-has an error -5.592028e-04
+	-took 1.321491e+00 seconds
+	-quality -1.353214e+03
+Node 3 (of 16) starting.
+Node 3 (of 16) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.200000e-07 seconds.
+Local 3 approx of PI with 62500000 iterations:
+	-is 3.141585
+	-has an error -8.135804e-06
+	-took 1.331087e+00 seconds
+	-quality -9.234065e+04
+Node 7 (of 16) starting.
+Node 7 (of 16) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.430000e-07 seconds.
+Local 7 approx of PI with 62500000 iterations:
+	-is 3.141948
+	-has an error 3.554228e-04
+	-took 1.330283e+00 seconds
+	-quality 2.115001e+03
+Node 4 (of 16) starting.
+Node 4 (of 16) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.160000e-07 seconds.
+Local 4 approx of PI with 62500000 iterations:
+	-is 3.141541
+	-has an error -5.120795e-05
+	-took 1.329860e+00 seconds
+	-quality -1.468442e+04
+Node 0 (of 16) starting.
+Node 0 (of 16) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.830000e-07 seconds.
+Local 0 approx of PI with 62500000 iterations:
+	-is 3.142279
+	-has an error 6.863369e-04
+	-took 1.266101e+00 seconds
+	-quality 1.150785e+03
+Global approx of PI with 62500000 iterations:
+	-is 3.141607
+	-has an error 1.424080e-05
+	-took 1.333299e+00 seconds
+	-quality 5.266692e+04
+Node 15 (of 16) starting.
+Node 15 (of 16) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.900000e-07 seconds.
+Local 15 approx of PI with 62500000 iterations:
+	-is 3.141769
+	-has an error 1.766780e-04
+	-took 1.269289e+00 seconds
+	-quality 4.459199e+03
+Node 14 (of 16) starting.
+Node 14 (of 16) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.490000e-07 seconds.
+Local 14 approx of PI with 62500000 iterations:
+	-is 3.142142
+	-has an error 5.490747e-04
+	-took 1.260710e+00 seconds
+	-quality 1.444619e+03
+Node 10 (of 16) starting.
+Node 10 (of 16) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.250000e-07 seconds.
+Local 10 approx of PI with 62500000 iterations:
+	-is 3.140982
+	-has an error -6.103805e-04
+	-took 1.269067e+00 seconds
+	-quality -1.290966e+03
+Node 9 (of 16) starting.
+Node 9 (of 16) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.020000e-07 seconds.
+Local 9 approx of PI with 62500000 iterations:
+	-is 3.142528
+	-has an error 9.354815e-04
+	-took 1.268541e+00 seconds
+	-quality 8.426757e+02
+Node 11 (of 16) starting.
+Node 11 (of 16) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.730000e-07 seconds.
+Local 11 approx of PI with 62500000 iterations:
+	-is 3.141764
+	-has an error 1.716832e-04
+	-took 1.270117e+00 seconds
+	-quality 4.585940e+03
+Node 12 (of 16) starting.
+Node 12 (of 16) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.050000e-07 seconds.
+Local 12 approx of PI with 62500000 iterations:
+	-is 3.141572
+	-has an error -2.049267e-05
+	-took 1.268651e+00 seconds
+	-quality -3.846441e+04
+Node 8 (of 16) starting.
+Node 8 (of 16) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.970000e-07 seconds.
+Local 8 approx of PI with 62500000 iterations:
+	-is 3.140382
+	-has an error -1.210163e-03
+	-took 1.268760e+00 seconds
+	-quality -6.512934e+02
+Ejecutando con 17 procesadores
+Node 2 (of 17) starting.
+Node 2 (of 17) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.690000e-07 seconds.
+Local 2 approx of PI with 58823529 iterations:
+	-is 3.141427
+	-has an error -1.660940e-04
+	-took 1.199746e+00 seconds
+	-quality -5.018300e+03
+Node 12 (of 17) starting.
+Node 12 (of 17) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.320000e-07 seconds.
+Local 12 approx of PI with 58823529 iterations:
+	-is 3.142288
+	-has an error 6.957221e-04
+	-took 1.205966e+00 seconds
+	-quality 1.191871e+03
+Node 5 (of 17) starting.
+Node 5 (of 17) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.830000e-07 seconds.
+Local 5 approx of PI with 58823529 iterations:
+	-is 3.142031
+	-has an error 4.387925e-04
+	-took 1.199785e+00 seconds
+	-quality 1.899491e+03
+Node 7 (of 17) starting.
+Node 7 (of 17) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.610000e-07 seconds.
+Local 7 approx of PI with 58823529 iterations:
+	-is 3.142705
+	-has an error 1.112579e-03
+	-took 1.218659e+00 seconds
+	-quality 7.375421e+02
+Node 3 (of 17) starting.
+Node 3 (of 17) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.600000e-07 seconds.
+Local 3 approx of PI with 58823529 iterations:
+	-is 3.142781
+	-has an error 1.188138e-03
+	-took 1.199805e+00 seconds
+	-quality 7.014912e+02
+Node 8 (of 17) starting.
+Node 8 (of 17) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.210000e-07 seconds.
+Local 8 approx of PI with 58823529 iterations:
+	-is 3.141110
+	-has an error -4.828344e-04
+	-took 1.199602e+00 seconds
+	-quality -1.726492e+03
+Node 6 (of 17) starting.
+Node 6 (of 17) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.130000e-07 seconds.
+Local 6 approx of PI with 58823529 iterations:
+	-is 3.140364
+	-has an error -1.228891e-03
+	-took 1.197825e+00 seconds
+	-quality -6.793494e+02
+Node 1 (of 17) starting.
+Node 1 (of 17) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.740000e-07 seconds.
+Local 1 approx of PI with 58823529 iterations:
+	-is 3.141684
+	-has an error 9.133244e-05
+	-took 1.198820e+00 seconds
+	-quality 9.133156e+03
+Node 4 (of 17) starting.
+Node 4 (of 17) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.560000e-07 seconds.
+Local 4 approx of PI with 58823529 iterations:
+	-is 3.140506
+	-has an error -1.086436e-03
+	-took 1.177806e+00 seconds
+	-quality -7.814875e+02
+Node 0 (of 17) starting.
+Node 0 (of 17) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.840000e-07 seconds.
+Local 0 approx of PI with 58823529 iterations:
+	-is 3.141030
+	-has an error -5.630023e-04
+	-took 1.218906e+00 seconds
+	-quality -1.457202e+03
+Global approx of PI with 58823529 iterations:
+	-is 3.141557
+	-has an error -3.581193e-05
+	-took 1.225299e+00 seconds
+	-quality -2.278927e+04
+Node 9 (of 17) starting.
+Node 9 (of 17) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.370000e-07 seconds.
+Local 9 approx of PI with 58823529 iterations:
+	-is 3.141746
+	-has an error 1.531941e-04
+	-took 1.204636e+00 seconds
+	-quality 5.418789e+03
+Node 16 (of 17) starting.
+Node 16 (of 17) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.360000e-07 seconds.
+Local 16 approx of PI with 58823529 iterations:
+	-is 3.142189
+	-has an error 5.959851e-04
+	-took 1.195199e+00 seconds
+	-quality 1.403862e+03
+Node 14 (of 17) starting.
+Node 14 (of 17) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.090000e-07 seconds.
+Local 14 approx of PI with 58823529 iterations:
+	-is 3.140069
+	-has an error -1.523543e-03
+	-took 1.194364e+00 seconds
+	-quality -5.495517e+02
+Node 13 (of 17) starting.
+Node 13 (of 17) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.460000e-07 seconds.
+Local 13 approx of PI with 58823529 iterations:
+	-is 3.141619
+	-has an error 2.622248e-05
+	-took 1.195360e+00 seconds
+	-quality 3.190270e+04
+Node 10 (of 17) starting.
+Node 10 (of 17) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.130000e-07 seconds.
+Local 10 approx of PI with 58823529 iterations:
+	-is 3.141872
+	-has an error 2.790768e-04
+	-took 1.174428e+00 seconds
+	-quality 3.051052e+03
+Node 11 (of 17) starting.
+Node 11 (of 17) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.220000e-07 seconds.
+Local 11 approx of PI with 58823529 iterations:
+	-is 3.142281
+	-has an error 6.879346e-04
+	-took 1.194348e+00 seconds
+	-quality 1.217088e+03
+Node 15 (of 17) starting.
+Node 15 (of 17) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.480000e-07 seconds.
+Local 15 approx of PI with 58823529 iterations:
+	-is 3.140766
+	-has an error -8.266052e-04
+	-took 1.194593e+00 seconds
+	-quality -1.012703e+03
+Ejecutando con 18 procesadores
+Node 7 (of 18) starting.
+Node 7 (of 18) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.750000e-07 seconds.
+Local 7 approx of PI with 55555555 iterations:
+	-is 3.141781
+	-has an error 1.887902e-04
+	-took 1.192276e+00 seconds
+	-quality 4.442666e+03
+Node 11 (of 18) starting.
+Node 11 (of 18) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.810000e-07 seconds.
+Local 11 approx of PI with 55555555 iterations:
+	-is 3.139999
+	-has an error -1.593563e-03
+	-took 1.126368e+00 seconds
+	-quality -5.571221e+02
+Node 4 (of 18) starting.
+Node 4 (of 18) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.820000e-07 seconds.
+Local 4 approx of PI with 55555555 iterations:
+	-is 3.142740
+	-has an error 1.147694e-03
+	-took 1.188977e+00 seconds
+	-quality 7.328253e+02
+Node 1 (of 18) starting.
+Node 1 (of 18) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.660000e-07 seconds.
+Local 1 approx of PI with 55555555 iterations:
+	-is 3.140688
+	-has an error -9.046258e-04
+	-took 1.191505e+00 seconds
+	-quality -9.277589e+02
+Node 8 (of 18) starting.
+Node 8 (of 18) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.480000e-07 seconds.
+Local 8 approx of PI with 55555555 iterations:
+	-is 3.142031
+	-has an error 4.384506e-04
+	-took 1.191989e+00 seconds
+	-quality 1.913406e+03
+Node 3 (of 18) starting.
+Node 3 (of 18) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.560000e-07 seconds.
+Local 3 approx of PI with 55555555 iterations:
+	-is 3.140548
+	-has an error -1.044456e-03
+	-took 1.655916e+00 seconds
+	-quality -5.781912e+02
+Node 5 (of 18) starting.
+Node 5 (of 18) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.370000e-07 seconds.
+Local 5 approx of PI with 55555555 iterations:
+	-is 3.140930
+	-has an error -6.622090e-04
+	-took 1.124918e+00 seconds
+	-quality -1.342407e+03
+Node 6 (of 18) starting.
+Node 6 (of 18) has time resolution of 1.000000e-09 seconds and a measure overhead of 8.440000e-07 seconds.
+Local 6 approx of PI with 55555555 iterations:
+	-is 3.141444
+	-has an error -1.489407e-04
+	-took 1.120870e+00 seconds
+	-quality -5.990064e+03
+Node 2 (of 18) starting.
+Node 2 (of 18) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.000000e-07 seconds.
+Local 2 approx of PI with 55555555 iterations:
+	-is 3.142107
+	-has an error 5.147116e-04
+	-took 1.126641e+00 seconds
+	-quality 1.724449e+03
+Node 0 (of 18) starting.
+Node 0 (of 18) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.880000e-07 seconds.
+Local 0 approx of PI with 55555555 iterations:
+	-is 3.142741
+	-has an error 1.148149e-03
+	-took 1.192147e+00 seconds
+	-quality 7.305873e+02
+Global approx of PI with 55555555 iterations:
+	-is 3.141697
+	-has an error 1.041534e-04
+	-took 1.655944e+00 seconds
+	-quality 5.798034e+03
+Node 9 (of 18) starting.
+Node 9 (of 18) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.300000e-07 seconds.
+Local 9 approx of PI with 55555555 iterations:
+	-is 3.142099
+	-has an error 5.058615e-04
+	-took 1.134917e+00 seconds
+	-quality 1.741824e+03
+Node 10 (of 18) starting.
+Node 10 (of 18) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.720000e-07 seconds.
+Local 10 approx of PI with 55555555 iterations:
+	-is 3.142040
+	-has an error 4.471530e-04
+	-took 1.126504e+00 seconds
+	-quality 1.985231e+03
+Node 16 (of 18) starting.
+Node 16 (of 18) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.350000e-07 seconds.
+Local 16 approx of PI with 55555555 iterations:
+	-is 3.141388
+	-has an error -2.044647e-04
+	-took 1.127160e+00 seconds
+	-quality -4.339062e+03
+Node 12 (of 18) starting.
+Node 12 (of 18) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.730000e-07 seconds.
+Local 12 approx of PI with 55555555 iterations:
+	-is 3.140770
+	-has an error -8.227070e-04
+	-took 1.126245e+00 seconds
+	-quality -1.079250e+03
+Node 17 (of 18) starting.
+Node 17 (of 18) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.360000e-07 seconds.
+Local 17 approx of PI with 55555555 iterations:
+	-is 3.142336
+	-has an error 7.430853e-04
+	-took 1.126507e+00 seconds
+	-quality 1.194613e+03
+Node 15 (of 18) starting.
+Node 15 (of 18) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.420000e-07 seconds.
+Local 15 approx of PI with 55555555 iterations:
+	-is 3.143444
+	-has an error 1.851807e-03
+	-took 1.127800e+00 seconds
+	-quality 4.788199e+02
+Node 13 (of 18) starting.
+Node 13 (of 18) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.360000e-07 seconds.
+Local 13 approx of PI with 55555555 iterations:
+	-is 3.142236
+	-has an error 6.431691e-04
+	-took 1.142399e+00 seconds
+	-quality 1.360996e+03
+Node 14 (of 18) starting.
+Node 14 (of 18) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.530000e-07 seconds.
+Local 14 approx of PI with 55555555 iterations:
+	-is 3.141220
+	-has an error -3.725771e-04
+	-took 1.127787e+00 seconds
+	-quality -2.379888e+03
+Ejecutando con 19 procesadores
+Node 4 (of 19) starting.
+Node 4 (of 19) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.830000e-07 seconds.
+Local 4 approx of PI with 52631578 iterations:
+	-is 3.141426
+	-has an error -1.670908e-04
+	-took 1.066289e+00 seconds
+	-quality -5.612708e+03
+Node 10 (of 19) starting.
+Node 10 (of 19) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.750000e-07 seconds.
+Local 10 approx of PI with 52631578 iterations:
+	-is 3.141034
+	-has an error -5.585637e-04
+	-took 1.068400e+00 seconds
+	-quality -1.675688e+03
+Node 3 (of 19) starting.
+Node 3 (of 19) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.740000e-07 seconds.
+Local 3 approx of PI with 52631578 iterations:
+	-is 3.140787
+	-has an error -8.055308e-04
+	-took 1.066311e+00 seconds
+	-quality -1.164217e+03
+Node 1 (of 19) starting.
+Node 1 (of 19) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.970000e-07 seconds.
+Local 1 approx of PI with 52631578 iterations:
+	-is 3.140385
+	-has an error -1.207234e-03
+	-took 1.120797e+00 seconds
+	-quality -7.390634e+02
+Node 9 (of 19) starting.
+Node 9 (of 19) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.260000e-07 seconds.
+Local 9 approx of PI with 52631578 iterations:
+	-is 3.139964
+	-has an error -1.628824e-03
+	-took 1.063816e+00 seconds
+	-quality -5.771111e+02
+Node 8 (of 19) starting.
+Node 8 (of 19) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.330000e-07 seconds.
+Local 8 approx of PI with 52631578 iterations:
+	-is 3.142233
+	-has an error 6.400382e-04
+	-took 1.122044e+00 seconds
+	-quality 1.392465e+03
+Node 6 (of 19) starting.
+Node 6 (of 19) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.920000e-07 seconds.
+Local 6 approx of PI with 52631578 iterations:
+	-is 3.141924
+	-has an error 3.316016e-04
+	-took 1.120421e+00 seconds
+	-quality 2.691548e+03
+Node 2 (of 19) starting.
+Node 2 (of 19) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.500000e-07 seconds.
+Local 2 approx of PI with 52631578 iterations:
+	-is 3.142619
+	-has an error 1.025864e-03
+	-took 1.121690e+00 seconds
+	-quality 8.690350e+02
+Node 5 (of 19) starting.
+Node 5 (of 19) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.060000e-07 seconds.
+Local 5 approx of PI with 52631578 iterations:
+	-is 3.141596
+	-has an error 3.344535e-06
+	-took 1.120985e+00 seconds
+	-quality 2.667255e+05
+Node 7 (of 19) starting.
+Node 7 (of 19) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.190000e-07 seconds.
+Local 7 approx of PI with 52631578 iterations:
+	-is 3.142243
+	-has an error 6.506789e-04
+	-took 1.120878e+00 seconds
+	-quality 1.371118e+03
+Node 0 (of 19) starting.
+Node 0 (of 19) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.450000e-07 seconds.
+Local 0 approx of PI with 52631578 iterations:
+	-is 3.142213
+	-has an error 6.199329e-04
+	-took 1.119935e+00 seconds
+	-quality 1.440331e+03
+Global approx of PI with 52631578 iterations:
+	-is 3.141658
+	-has an error 6.516336e-05
+	-took 1.124588e+00 seconds
+	-quality 1.364593e+04
+Node 14 (of 19) starting.
+Node 14 (of 19) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.900000e-07 seconds.
+Local 14 approx of PI with 52631578 iterations:
+	-is 3.141327
+	-has an error -2.661473e-04
+	-took 1.091685e+00 seconds
+	-quality -3.441759e+03
+Node 12 (of 19) starting.
+Node 12 (of 19) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.320000e-07 seconds.
+Local 12 approx of PI with 52631578 iterations:
+	-is 3.141364
+	-has an error -2.281766e-04
+	-took 1.068278e+00 seconds
+	-quality -4.102461e+03
+Node 17 (of 19) starting.
+Node 17 (of 19) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.410000e-07 seconds.
+Local 17 approx of PI with 52631578 iterations:
+	-is 3.141222
+	-has an error -3.702288e-04
+	-took 1.068349e+00 seconds
+	-quality -2.528230e+03
+Node 18 (of 19) starting.
+Node 18 (of 19) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.960000e-07 seconds.
+Local 18 approx of PI with 52631578 iterations:
+	-is 3.140732
+	-has an error -8.608126e-04
+	-took 1.067910e+00 seconds
+	-quality -1.087819e+03
+Node 16 (of 19) starting.
+Node 16 (of 19) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.620000e-07 seconds.
+Local 16 approx of PI with 52631578 iterations:
+	-is 3.142391
+	-has an error 7.987889e-04
+	-took 1.048794e+00 seconds
+	-quality 1.193652e+03
+Node 11 (of 19) starting.
+Node 11 (of 19) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.660000e-07 seconds.
+Local 11 approx of PI with 52631578 iterations:
+	-is 3.142396
+	-has an error 8.038375e-04
+	-took 1.068446e+00 seconds
+	-quality 1.164339e+03
+Node 13 (of 19) starting.
+Node 13 (of 19) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.320000e-07 seconds.
+Local 13 approx of PI with 52631578 iterations:
+	-is 3.143427
+	-has an error 1.833902e-03
+	-took 1.079724e+00 seconds
+	-quality 5.050230e+02
+Node 15 (of 19) starting.
+Node 15 (of 19) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.890000e-07 seconds.
+Local 15 approx of PI with 52631578 iterations:
+	-is 3.142216
+	-has an error 6.237984e-04
+	-took 1.068965e+00 seconds
+	-quality 1.499658e+03
+Ejecutando con 20 procesadores
+Node 9 (of 20) starting.
+Node 9 (of 20) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.470000e-07 seconds.
+Local 9 approx of PI with 50000000 iterations:
+	-is 3.141526
+	-has an error -6.639636e-05
+	-took 1.014268e+00 seconds
+	-quality -1.484920e+04
+Node 14 (of 20) starting.
+Node 14 (of 20) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.760000e-07 seconds.
+Local 14 approx of PI with 50000000 iterations:
+	-is 3.141206
+	-has an error -3.861786e-04
+	-took 1.015817e+00 seconds
+	-quality -2.549155e+03
+Node 8 (of 20) starting.
+Node 8 (of 20) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.090000e-07 seconds.
+Local 8 approx of PI with 50000000 iterations:
+	-is 3.142575
+	-has an error 9.819915e-04
+	-took 1.046890e+00 seconds
+	-quality 9.727278e+02
+Node 6 (of 20) starting.
+Node 6 (of 20) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.910000e-07 seconds.
+Local 6 approx of PI with 50000000 iterations:
+	-is 3.140029
+	-has an error -1.564006e-03
+	-took 1.013193e+00 seconds
+	-quality -6.310582e+02
+Node 2 (of 20) starting.
+Node 2 (of 20) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.050000e-07 seconds.
+Local 2 approx of PI with 50000000 iterations:
+	-is 3.141742
+	-has an error 1.490897e-04
+	-took 1.012908e+00 seconds
+	-quality 6.621894e+03
+Node 3 (of 20) starting.
+Node 3 (of 20) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.980000e-07 seconds.
+Local 3 approx of PI with 50000000 iterations:
+	-is 3.142064
+	-has an error 4.713833e-04
+	-took 1.012627e+00 seconds
+	-quality 2.094963e+03
+Node 5 (of 20) starting.
+Node 5 (of 20) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.110000e-07 seconds.
+Local 5 approx of PI with 50000000 iterations:
+	-is 3.142186
+	-has an error 5.933148e-04
+	-took 1.029454e+00 seconds
+	-quality 1.637223e+03
+Node 7 (of 20) starting.
+Node 7 (of 20) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.180000e-07 seconds.
+Local 7 approx of PI with 50000000 iterations:
+	-is 3.141123
+	-has an error -4.698160e-04
+	-took 1.045094e+00 seconds
+	-quality -2.036653e+03
+Node 1 (of 20) starting.
+Node 1 (of 20) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.120000e-07 seconds.
+Local 1 approx of PI with 50000000 iterations:
+	-is 3.141495
+	-has an error -9.796077e-05
+	-took 1.046401e+00 seconds
+	-quality -9.755505e+03
+Node 4 (of 20) starting.
+Node 4 (of 20) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.910000e-07 seconds.
+Local 4 approx of PI with 50000000 iterations:
+	-is 3.142284
+	-has an error 6.916852e-04
+	-took 1.012707e+00 seconds
+	-quality 1.427604e+03
+Node 0 (of 20) starting.
+Node 0 (of 20) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.530000e-07 seconds.
+Local 0 approx of PI with 50000000 iterations:
+	-is 3.140707
+	-has an error -8.852500e-04
+	-took 1.047924e+00 seconds
+	-quality -1.077964e+03
+Global approx of PI with 50000000 iterations:
+	-is 3.141690
+	-has an error 9.738027e-05
+	-took 1.051219e+00 seconds
+	-quality 9.768679e+03
+Node 17 (of 20) starting.
+Node 17 (of 20) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.790000e-07 seconds.
+Local 17 approx of PI with 50000000 iterations:
+	-is 3.140932
+	-has an error -6.604313e-04
+	-took 1.015594e+00 seconds
+	-quality -1.490913e+03
+Node 10 (of 20) starting.
+Node 10 (of 20) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.100000e-07 seconds.
+Local 10 approx of PI with 50000000 iterations:
+	-is 3.143685
+	-has an error 2.091898e-03
+	-took 1.020481e+00 seconds
+	-quality 4.684404e+02
+Node 15 (of 20) starting.
+Node 15 (of 20) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.980000e-07 seconds.
+Local 15 approx of PI with 50000000 iterations:
+	-is 3.140779
+	-has an error -8.139946e-04
+	-took 1.015694e+00 seconds
+	-quality -1.209527e+03
+Node 18 (of 20) starting.
+Node 18 (of 20) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.900000e-07 seconds.
+Local 18 approx of PI with 50000000 iterations:
+	-is 3.141408
+	-has an error -1.842655e-04
+	-took 1.012686e+00 seconds
+	-quality -5.358970e+03
+Node 19 (of 20) starting.
+Node 19 (of 20) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.750000e-07 seconds.
+Local 19 approx of PI with 50000000 iterations:
+	-is 3.142899
+	-has an error 1.306009e-03
+	-took 1.015660e+00 seconds
+	-quality 7.538856e+02
+Node 16 (of 20) starting.
+Node 16 (of 20) has time resolution of 1.000000e-09 seconds and a measure overhead of 6.380000e-07 seconds.
+Local 16 approx of PI with 50000000 iterations:
+	-is 3.140868
+	-has an error -7.244289e-04
+	-took 1.009096e+00 seconds
+	-quality -1.367955e+03
+Node 12 (of 20) starting.
+Node 12 (of 20) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.600000e-07 seconds.
+Local 12 approx of PI with 50000000 iterations:
+	-is 3.142319
+	-has an error 7.259806e-04
+	-took 1.015845e+00 seconds
+	-quality 1.355963e+03
+Node 13 (of 20) starting.
+Node 13 (of 20) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.760000e-07 seconds.
+Local 13 approx of PI with 50000000 iterations:
+	-is 3.142775
+	-has an error 1.182833e-03
+	-took 1.016799e+00 seconds
+	-quality 8.314602e+02
+Node 11 (of 20) starting.
+Node 11 (of 20) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.750000e-07 seconds.
+Local 11 approx of PI with 50000000 iterations:
+	-is 3.141199
+	-has an error -3.938521e-04
+	-took 1.015871e+00 seconds
+	-quality -2.499357e+03
+Ejecutando con 21 procesadores
+Node 4 (of 21) starting.
+Node 4 (of 21) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.200000e-07 seconds.
+Local 4 approx of PI with 47619047 iterations:
+	-is 3.139715
+	-has an error -1.877421e-03
+	-took 1.017157e+00 seconds
+	-quality -5.236610e+02
+Node 12 (of 21) starting.
+Node 12 (of 21) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.290000e-07 seconds.
+Local 12 approx of PI with 47619047 iterations:
+	-is 3.141141
+	-has an error -4.518290e-04
+	-took 9.674025e-01 seconds
+	-quality -2.287804e+03
+Node 6 (of 21) starting.
+Node 6 (of 21) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.400000e-07 seconds.
+Local 6 approx of PI with 47619047 iterations:
+	-is 3.142669
+	-has an error 1.076623e-03
+	-took 1.019025e+00 seconds
+	-quality 9.114885e+02
+Node 5 (of 21) starting.
+Node 5 (of 21) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.970000e-07 seconds.
+Local 5 approx of PI with 47619047 iterations:
+	-is 3.140956
+	-has an error -6.362619e-04
+	-took 1.064454e+00 seconds
+	-quality -1.476513e+03
+Node 1 (of 21) starting.
+Node 1 (of 21) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.950000e-07 seconds.
+Local 1 approx of PI with 47619047 iterations:
+	-is 3.142363
+	-has an error 7.707334e-04
+	-took 1.017758e+00 seconds
+	-quality 1.274827e+03
+Node 8 (of 21) starting.
+Node 8 (of 21) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.490000e-07 seconds.
+Local 8 approx of PI with 47619047 iterations:
+	-is 3.143708
+	-has an error 2.115832e-03
+	-took 1.037477e+00 seconds
+	-quality 4.555545e+02
+Node 2 (of 21) starting.
+Node 2 (of 21) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.200000e-07 seconds.
+Local 2 approx of PI with 47619047 iterations:
+	-is 3.141965
+	-has an error 3.723884e-04
+	-took 1.019378e+00 seconds
+	-quality 2.634321e+03
+Node 3 (of 21) starting.
+Node 3 (of 21) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.360000e-07 seconds.
+Local 3 approx of PI with 47619047 iterations:
+	-is 3.142285
+	-has an error 6.919685e-04
+	-took 1.023742e+00 seconds
+	-quality 1.411637e+03
+Node 9 (of 21) starting.
+Node 9 (of 21) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.520000e-07 seconds.
+Local 9 approx of PI with 47619047 iterations:
+	-is 3.141213
+	-has an error -3.799607e-04
+	-took 1.018511e+00 seconds
+	-quality -2.584019e+03
+Node 10 (of 21) starting.
+Node 10 (of 21) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.320000e-07 seconds.
+Local 10 approx of PI with 47619047 iterations:
+	-is 3.142351
+	-has an error 7.580110e-04
+	-took 1.039652e+00 seconds
+	-quality 1.268926e+03
+Node 7 (of 21) starting.
+Node 7 (of 21) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.780000e-07 seconds.
+Local 7 approx of PI with 47619047 iterations:
+	-is 3.141139
+	-has an error -4.533288e-04
+	-took 1.018878e+00 seconds
+	-quality -2.165033e+03
+Node 0 (of 21) starting.
+Node 0 (of 21) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.330000e-07 seconds.
+Local 0 approx of PI with 47619047 iterations:
+	-is 3.141889
+	-has an error 2.964802e-04
+	-took 1.015070e+00 seconds
+	-quality 3.322832e+03
+Global approx of PI with 47619047 iterations:
+	-is 3.141464
+	-has an error -1.285292e-04
+	-took 1.064342e+00 seconds
+	-quality -7.309995e+03
+Node 16 (of 21) starting.
+Node 16 (of 21) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.720000e-07 seconds.
+Local 16 approx of PI with 47619047 iterations:
+	-is 3.141468
+	-has an error -1.250440e-04
+	-took 9.661563e-01 seconds
+	-quality -8.277318e+03
+Node 17 (of 21) starting.
+Node 17 (of 21) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.410000e-07 seconds.
+Local 17 approx of PI with 47619047 iterations:
+	-is 3.142646
+	-has an error 1.053045e-03
+	-took 9.666051e-01 seconds
+	-quality 9.824352e+02
+Node 14 (of 21) starting.
+Node 14 (of 21) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.370000e-07 seconds.
+Local 14 approx of PI with 47619047 iterations:
+	-is 3.141115
+	-has an error -4.778550e-04
+	-took 9.660914e-01 seconds
+	-quality -2.166135e+03
+Node 19 (of 21) starting.
+Node 19 (of 21) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.250000e-07 seconds.
+Local 19 approx of PI with 47619047 iterations:
+	-is 3.140135
+	-has an error -1.457240e-03
+	-took 9.631063e-01 seconds
+	-quality -7.125159e+02
+Node 11 (of 21) starting.
+Node 11 (of 21) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.600000e-07 seconds.
+Local 11 approx of PI with 47619047 iterations:
+	-is 3.142898
+	-has an error 1.305647e-03
+	-took 9.614993e-01 seconds
+	-quality 7.965724e+02
+Node 13 (of 21) starting.
+Node 13 (of 21) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.640000e-07 seconds.
+Local 13 approx of PI with 47619047 iterations:
+	-is 3.140874
+	-has an error -7.188696e-04
+	-took 9.668533e-01 seconds
+	-quality -1.438763e+03
+Node 20 (of 21) starting.
+Node 20 (of 21) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.260000e-07 seconds.
+Local 20 approx of PI with 47619047 iterations:
+	-is 3.140436
+	-has an error -1.156581e-03
+	-took 9.666857e-01 seconds
+	-quality -8.944139e+02
+Node 18 (of 21) starting.
+Node 18 (of 21) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.600000e-07 seconds.
+Local 18 approx of PI with 47619047 iterations:
+	-is 3.138929
+	-has an error -2.663817e-03
+	-took 9.657366e-01 seconds
+	-quality -3.887200e+02
+Node 15 (of 21) starting.
+Node 15 (of 21) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.370000e-07 seconds.
+Local 15 approx of PI with 47619047 iterations:
+	-is 3.140852
+	-has an error -7.407758e-04
+	-took 9.654201e-01 seconds
+	-quality -1.398289e+03
+Ejecutando con 22 procesadores
+Node 3 (of 22) starting.
+Node 3 (of 22) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.630000e-07 seconds.
+Local 3 approx of PI with 45454545 iterations:
+	-is 3.139428
+	-has an error -2.164939e-03
+	-took 9.207971e-01 seconds
+	-quality -5.016379e+02
+Node 13 (of 22) starting.
+Node 13 (of 22) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.440000e-07 seconds.
+Local 13 approx of PI with 45454545 iterations:
+	-is 3.140901
+	-has an error -6.919429e-04
+	-took 9.225562e-01 seconds
+	-quality -1.566523e+03
+Node 7 (of 22) starting.
+Node 7 (of 22) has time resolution of 1.000000e-09 seconds and a measure overhead of 5.360000e-07 seconds.
+Local 7 approx of PI with 45454545 iterations:
+	-is 3.143658
+	-has an error 2.065468e-03
+	-took 9.375599e-01 seconds
+	-quality 5.163956e+02
+Node 9 (of 22) starting.
+Node 9 (of 22) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.450000e-07 seconds.
+Local 9 approx of PI with 45454545 iterations:
+	-is 3.142417
+	-has an error 8.239738e-04
+	-took 9.610262e-01 seconds
+	-quality 1.262849e+03
+Node 10 (of 22) starting.
+Node 10 (of 22) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.810000e-07 seconds.
+Local 10 approx of PI with 45454545 iterations:
+	-is 3.143083
+	-has an error 1.490076e-03
+	-took 9.611196e-01 seconds
+	-quality 6.982551e+02
+Node 6 (of 22) starting.
+Node 6 (of 22) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.500000e-07 seconds.
+Local 6 approx of PI with 45454545 iterations:
+	-is 3.141248
+	-has an error -3.442933e-04
+	-took 9.613080e-01 seconds
+	-quality -3.021404e+03
+Node 2 (of 22) starting.
+Node 2 (of 22) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.390000e-07 seconds.
+Local 2 approx of PI with 45454545 iterations:
+	-is 3.142516
+	-has an error 9.233328e-04
+	-took 9.220774e-01 seconds
+	-quality 1.174558e+03
+Node 1 (of 22) starting.
+Node 1 (of 22) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.000000e-07 seconds.
+Local 1 approx of PI with 45454545 iterations:
+	-is 3.142260
+	-has an error 6.674045e-04
+	-took 9.212452e-01 seconds
+	-quality 1.626431e+03
+Node 8 (of 22) starting.
+Node 8 (of 22) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.090000e-07 seconds.
+Local 8 approx of PI with 45454545 iterations:
+	-is 3.140448
+	-has an error -1.144203e-03
+	-took 9.613810e-01 seconds
+	-quality -9.090789e+02
+Node 4 (of 22) starting.
+Node 4 (of 22) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.250000e-07 seconds.
+Local 4 approx of PI with 45454545 iterations:
+	-is 3.141085
+	-has an error -5.077928e-04
+	-took 1.095794e+00 seconds
+	-quality -1.797151e+03
+Node 5 (of 22) starting.
+Node 5 (of 22) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.430000e-07 seconds.
+Local 5 approx of PI with 45454545 iterations:
+	-is 3.143148
+	-has an error 1.555183e-03
+	-took 9.223032e-01 seconds
+	-quality 6.971797e+02
+Node 0 (of 22) starting.
+Node 0 (of 22) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.250000e-07 seconds.
+Local 0 approx of PI with 45454545 iterations:
+	-is 3.142669
+	-has an error 1.076128e-03
+	-took 9.211426e-01 seconds
+	-quality 1.008810e+03
+Global approx of PI with 45454545 iterations:
+	-is 3.141636
+	-has an error 4.346790e-05
+	-took 1.095827e+00 seconds
+	-quality 2.099371e+04
+Node 11 (of 22) starting.
+Node 11 (of 22) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.540000e-07 seconds.
+Local 11 approx of PI with 45454545 iterations:
+	-is 3.140947
+	-has an error -6.458005e-04
+	-took 9.229363e-01 seconds
+	-quality -1.677760e+03
+Node 12 (of 22) starting.
+Node 12 (of 22) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.110000e-07 seconds.
+Local 12 approx of PI with 45454545 iterations:
+	-is 3.140952
+	-has an error -6.407588e-04
+	-took 9.226666e-01 seconds
+	-quality -1.691456e+03
+Node 17 (of 22) starting.
+Node 17 (of 22) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.000000e-07 seconds.
+Local 17 approx of PI with 45454545 iterations:
+	-is 3.138963
+	-has an error -2.629378e-03
+	-took 9.228222e-01 seconds
+	-quality -4.121250e+02
+Node 18 (of 22) starting.
+Node 18 (of 22) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.660000e-07 seconds.
+Local 18 approx of PI with 45454545 iterations:
+	-is 3.140442
+	-has an error -1.150251e-03
+	-took 9.349124e-01 seconds
+	-quality -9.299007e+02
+Node 20 (of 22) starting.
+Node 20 (of 22) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.470000e-07 seconds.
+Local 20 approx of PI with 45454545 iterations:
+	-is 3.142482
+	-has an error 8.889348e-04
+	-took 9.223196e-01 seconds
+	-quality 1.219688e+03
+Node 21 (of 22) starting.
+Node 21 (of 22) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.180000e-07 seconds.
+Local 21 approx of PI with 45454545 iterations:
+	-is 3.144096
+	-has an error 2.503539e-03
+	-took 9.233933e-01 seconds
+	-quality 4.325725e+02
+Node 16 (of 22) starting.
+Node 16 (of 22) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.420000e-07 seconds.
+Local 16 approx of PI with 45454545 iterations:
+	-is 3.142567
+	-has an error 9.745553e-04
+	-took 9.064038e-01 seconds
+	-quality 1.132066e+03
+Node 14 (of 22) starting.
+Node 14 (of 22) has time resolution of 1.000000e-09 seconds and a measure overhead of 5.400000e-07 seconds.
+Local 14 approx of PI with 45454545 iterations:
+	-is 3.140884
+	-has an error -7.088224e-04
+	-took 9.223879e-01 seconds
+	-quality -1.529498e+03
+Node 15 (of 22) starting.
+Node 15 (of 22) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.120000e-07 seconds.
+Local 15 approx of PI with 45454545 iterations:
+	-is 3.141373
+	-has an error -2.195964e-04
+	-took 9.224938e-01 seconds
+	-quality -4.936412e+03
+Node 19 (of 22) starting.
+Node 19 (of 22) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.700000e-07 seconds.
+Local 19 approx of PI with 45454545 iterations:
+	-is 3.140429
+	-has an error -1.163833e-03
+	-took 9.222307e-01 seconds
+	-quality -9.316862e+02
+Ejecutando con 23 procesadores
+Node 1 (of 23) starting.
+Node 1 (of 23) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.000000e-07 seconds.
+Local 1 approx of PI with 43478260 iterations:
+	-is 3.139281
+	-has an error -2.311604e-03
+	-took 9.037258e-01 seconds
+	-quality -4.786851e+02
+Node 19 (of 23) starting.
+Node 19 (of 23) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.710000e-07 seconds.
+Local 19 approx of PI with 43478260 iterations:
+	-is 3.144265
+	-has an error 2.672776e-03
+	-took 8.911846e-01 seconds
+	-quality 4.198265e+02
+Node 10 (of 23) starting.
+Node 10 (of 23) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.350000e-07 seconds.
+Local 10 approx of PI with 43478260 iterations:
+	-is 3.140939
+	-has an error -6.538840e-04
+	-took 8.811517e-01 seconds
+	-quality -1.735596e+03
+Node 2 (of 23) starting.
+Node 2 (of 23) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.940000e-07 seconds.
+Local 2 approx of PI with 43478260 iterations:
+	-is 3.141064
+	-has an error -5.287363e-04
+	-took 8.808175e-01 seconds
+	-quality -2.147212e+03
+Node 3 (of 23) starting.
+Node 3 (of 23) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.830000e-07 seconds.
+Local 3 approx of PI with 43478260 iterations:
+	-is 3.143150
+	-has an error 1.557194e-03
+	-took 9.316742e-01 seconds
+	-quality 6.892761e+02
+Node 8 (of 23) starting.
+Node 8 (of 23) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.070000e-07 seconds.
+Local 8 approx of PI with 43478260 iterations:
+	-is 3.143230
+	-has an error 1.637691e-03
+	-took 8.946403e-01 seconds
+	-quality 6.825266e+02
+Node 9 (of 23) starting.
+Node 9 (of 23) has time resolution of 1.000000e-09 seconds and a measure overhead of 6.200000e-07 seconds.
+Local 9 approx of PI with 43478260 iterations:
+	-is 3.140573
+	-has an error -1.019965e-03
+	-took 8.812726e-01 seconds
+	-quality -1.112511e+03
+Node 11 (of 23) starting.
+Node 11 (of 23) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.230000e-07 seconds.
+Local 11 approx of PI with 43478260 iterations:
+	-is 3.141246
+	-has an error -3.470295e-04
+	-took 9.318988e-01 seconds
+	-quality -3.092181e+03
+Node 4 (of 23) starting.
+Node 4 (of 23) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.220000e-07 seconds.
+Local 4 approx of PI with 43478260 iterations:
+	-is 3.141186
+	-has an error -4.068890e-04
+	-took 9.286054e-01 seconds
+	-quality -2.646628e+03
+Node 7 (of 23) starting.
+Node 7 (of 23) has time resolution of 1.000000e-09 seconds and a measure overhead of 5.690000e-07 seconds.
+Local 7 approx of PI with 43478260 iterations:
+	-is 3.142432
+	-has an error 8.397132e-04
+	-took 1.048386e+00 seconds
+	-quality 1.135920e+03
+Node 5 (of 23) starting.
+Node 5 (of 23) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.420000e-07 seconds.
+Local 5 approx of PI with 43478260 iterations:
+	-is 3.143841
+	-has an error 2.248735e-03
+	-took 8.906803e-01 seconds
+	-quality 4.992752e+02
+Node 6 (of 23) starting.
+Node 6 (of 23) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.580000e-07 seconds.
+Local 6 approx of PI with 43478260 iterations:
+	-is 3.140466
+	-has an error -1.126726e-03
+	-took 8.786950e-01 seconds
+	-quality -1.010051e+03
+Node 0 (of 23) starting.
+Node 0 (of 23) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.750000e-07 seconds.
+Local 0 approx of PI with 43478260 iterations:
+	-is 3.142521
+	-has an error 9.283378e-04
+	-took 9.324806e-01 seconds
+	-quality 1.155192e+03
+Global approx of PI with 43478260 iterations:
+	-is 3.141689
+	-has an error 9.603226e-05
+	-took 1.133522e+00 seconds
+	-quality 9.186561e+03
+Node 12 (of 23) starting.
+Node 12 (of 23) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.480000e-07 seconds.
+Local 12 approx of PI with 43478260 iterations:
+	-is 3.140767
+	-has an error -8.260439e-04
+	-took 8.914559e-01 seconds
+	-quality -1.357991e+03
+Node 17 (of 23) starting.
+Node 17 (of 23) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.670000e-07 seconds.
+Local 17 approx of PI with 43478260 iterations:
+	-is 3.140528
+	-has an error -1.064351e-03
+	-took 8.909144e-01 seconds
+	-quality -1.054579e+03
+Node 16 (of 23) starting.
+Node 16 (of 23) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.770000e-07 seconds.
+Local 16 approx of PI with 43478260 iterations:
+	-is 3.140424
+	-has an error -1.168808e-03
+	-took 8.907007e-01 seconds
+	-quality -9.605612e+02
+Node 15 (of 23) starting.
+Node 15 (of 23) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.850000e-07 seconds.
+Local 15 approx of PI with 43478260 iterations:
+	-is 3.138912
+	-has an error -2.680321e-03
+	-took 8.909506e-01 seconds
+	-quality -4.187545e+02
+Node 14 (of 23) starting.
+Node 14 (of 23) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.390000e-07 seconds.
+Local 14 approx of PI with 43478260 iterations:
+	-is 3.142499
+	-has an error 9.065847e-04
+	-took 1.122044e+00 seconds
+	-quality 9.830637e+02
+Node 18 (of 23) starting.
+Node 18 (of 23) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.220000e-07 seconds.
+Local 18 approx of PI with 43478260 iterations:
+	-is 3.142385
+	-has an error 7.925544e-04
+	-took 8.937868e-01 seconds
+	-quality 1.411682e+03
+Node 21 (of 23) starting.
+Node 21 (of 23) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.360000e-07 seconds.
+Local 21 approx of PI with 43478260 iterations:
+	-is 3.142480
+	-has an error 8.870263e-04
+	-took 9.003761e-01 seconds
+	-quality 1.252101e+03
+Node 13 (of 23) starting.
+Node 13 (of 23) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.450000e-07 seconds.
+Local 13 approx of PI with 43478260 iterations:
+	-is 3.141723
+	-has an error 1.298894e-04
+	-took 8.912893e-01 seconds
+	-quality 8.637891e+03
+Node 22 (of 23) starting.
+Node 22 (of 23) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.640000e-07 seconds.
+Local 22 approx of PI with 43478260 iterations:
+	-is 3.142870
+	-has an error 1.277168e-03
+	-took 8.906771e-01 seconds
+	-quality 8.790866e+02
+Node 20 (of 23) starting.
+Node 20 (of 23) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.480000e-07 seconds.
+Local 20 approx of PI with 43478260 iterations:
+	-is 3.142060
+	-has an error 4.668761e-04
+	-took 8.960380e-01 seconds
+	-quality 2.390407e+03
+Ejecutando con 24 procesadores
+Node 10 (of 24) starting.
+Node 10 (of 24) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.260000e-07 seconds.
+Local 10 approx of PI with 41666666 iterations:
+	-is 3.140746
+	-has an error -8.470607e-04
+	-took 8.454588e-01 seconds
+	-quality -1.396346e+03
+Node 17 (of 24) starting.
+Node 17 (of 24) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.420000e-07 seconds.
+Local 17 approx of PI with 41666666 iterations:
+	-is 3.144568
+	-has an error 2.975526e-03
+	-took 8.449544e-01 seconds
+	-quality 3.977434e+02
+Node 2 (of 24) starting.
+Node 2 (of 24) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.360000e-07 seconds.
+Local 2 approx of PI with 41666666 iterations:
+	-is 3.141130
+	-has an error -4.629976e-04
+	-took 8.448321e-01 seconds
+	-quality -2.556530e+03
+Node 1 (of 24) starting.
+Node 1 (of 24) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.950000e-07 seconds.
+Local 1 approx of PI with 41666666 iterations:
+	-is 3.143231
+	-has an error 1.638617e-03
+	-took 8.446768e-01 seconds
+	-quality 7.224904e+02
+Node 8 (of 24) starting.
+Node 8 (of 24) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.410000e-07 seconds.
+Local 8 approx of PI with 41666666 iterations:
+	-is 3.140759
+	-has an error -8.339133e-04
+	-took 8.444523e-01 seconds
+	-quality -1.420051e+03
+Node 11 (of 24) starting.
+Node 11 (of 24) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.050000e-07 seconds.
+Local 11 approx of PI with 41666666 iterations:
+	-is 3.141779
+	-has an error 1.865728e-04
+	-took 8.845232e-01 seconds
+	-quality 6.059579e+03
+Node 7 (of 24) starting.
+Node 7 (of 24) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.450000e-07 seconds.
+Local 7 approx of PI with 41666666 iterations:
+	-is 3.140636
+	-has an error -9.565030e-04
+	-took 9.048295e-01 seconds
+	-quality -1.155439e+03
+Node 5 (of 24) starting.
+Node 5 (of 24) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.060000e-07 seconds.
+Local 5 approx of PI with 41666666 iterations:
+	-is 3.142534
+	-has an error 9.415665e-04
+	-took 8.848305e-01 seconds
+	-quality 1.200298e+03
+Node 3 (of 24) starting.
+Node 3 (of 24) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.910000e-07 seconds.
+Local 3 approx of PI with 41666666 iterations:
+	-is 3.144060
+	-has an error 2.467265e-03
+	-took 8.442930e-01 seconds
+	-quality 4.800551e+02
+Node 6 (of 24) starting.
+Node 6 (of 24) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.300000e-07 seconds.
+Local 6 approx of PI with 41666666 iterations:
+	-is 3.143258
+	-has an error 1.665447e-03
+	-took 8.454154e-01 seconds
+	-quality 7.102302e+02
+Node 9 (of 24) starting.
+Node 9 (of 24) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.520000e-07 seconds.
+Local 9 approx of PI with 41666666 iterations:
+	-is 3.141250
+	-has an error -3.430480e-04
+	-took 8.820162e-01 seconds
+	-quality -3.304977e+03
+Node 4 (of 24) starting.
+Node 4 (of 24) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.660000e-07 seconds.
+Local 4 approx of PI with 41666666 iterations:
+	-is 3.140365
+	-has an error -1.227717e-03
+	-took 8.567833e-01 seconds
+	-quality -9.506719e+02
+Node 0 (of 24) starting.
+Node 0 (of 24) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.700000e-07 seconds.
+Local 0 approx of PI with 41666666 iterations:
+	-is 3.141338
+	-has an error -2.545355e-04
+	-took 8.447938e-01 seconds
+	-quality -4.650513e+03
+Global approx of PI with 41666666 iterations:
+	-is 3.141751
+	-has an error 1.587408e-04
+	-took 9.048060e-01 seconds
+	-quality 6.962350e+03
+Node 19 (of 24) starting.
+Node 19 (of 24) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.900000e-07 seconds.
+Local 19 approx of PI with 41666666 iterations:
+	-is 3.141763
+	-has an error 1.701971e-04
+	-took 8.451194e-01 seconds
+	-quality 6.952322e+03
+Node 13 (of 24) starting.
+Node 13 (of 24) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.540000e-07 seconds.
+Local 13 approx of PI with 41666666 iterations:
+	-is 3.138825
+	-has an error -2.767555e-03
+	-took 8.452312e-01 seconds
+	-quality -4.274922e+02
+Node 20 (of 24) starting.
+Node 20 (of 24) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.400000e-07 seconds.
+Local 20 approx of PI with 41666666 iterations:
+	-is 3.142815
+	-has an error 1.221888e-03
+	-took 8.448330e-01 seconds
+	-quality 9.687190e+02
+Node 14 (of 24) starting.
+Node 14 (of 24) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.650000e-07 seconds.
+Local 14 approx of PI with 41666666 iterations:
+	-is 3.140365
+	-has an error -1.227780e-03
+	-took 8.451984e-01 seconds
+	-quality -9.636534e+02
+Node 21 (of 24) starting.
+Node 21 (of 24) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.400000e-07 seconds.
+Local 21 approx of PI with 41666666 iterations:
+	-is 3.141501
+	-has an error -9.143180e-05
+	-took 8.460420e-01 seconds
+	-quality -1.292739e+04
+Node 15 (of 24) starting.
+Node 15 (of 24) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.010000e-07 seconds.
+Local 15 approx of PI with 41666666 iterations:
+	-is 3.140667
+	-has an error -9.256755e-04
+	-took 8.537007e-01 seconds
+	-quality -1.265423e+03
+Node 22 (of 24) starting.
+Node 22 (of 24) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.640000e-07 seconds.
+Local 22 approx of PI with 41666666 iterations:
+	-is 3.140516
+	-has an error -1.076450e-03
+	-took 8.306359e-01 seconds
+	-quality -1.118395e+03
+Node 23 (of 24) starting.
+Node 23 (of 24) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.430000e-07 seconds.
+Local 23 approx of PI with 41666666 iterations:
+	-is 3.143023
+	-has an error 1.430254e-03
+	-took 8.423472e-01 seconds
+	-quality 8.300335e+02
+Node 18 (of 24) starting.
+Node 18 (of 24) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.660000e-07 seconds.
+Local 18 approx of PI with 41666666 iterations:
+	-is 3.141991
+	-has an error 3.987897e-04
+	-took 8.461967e-01 seconds
+	-quality 2.963363e+03
+Node 12 (of 24) starting.
+Node 12 (of 24) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.730000e-07 seconds.
+Local 12 approx of PI with 41666666 iterations:
+	-is 3.142529
+	-has an error 9.363165e-04
+	-took 8.445188e-01 seconds
+	-quality 1.264643e+03
+Node 16 (of 24) starting.
+Node 16 (of 24) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.470000e-07 seconds.
+Local 16 approx of PI with 41666666 iterations:
+	-is 3.142386
+	-has an error 7.932152e-04
+	-took 8.457207e-01 seconds
+	-quality 1.490672e+03
+Ejecutando con 25 procesadores
+Node 11 (of 25) starting.
+Node 11 (of 25) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.000000e-07 seconds.
+Local 11 approx of PI with 40000000 iterations:
+	-is 3.138949
+	-has an error -2.643470e-03
+	-took 8.244933e-01 seconds
+	-quality -4.588159e+02
+Node 13 (of 25) starting.
+Node 13 (of 25) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.000000e-07 seconds.
+Local 13 approx of PI with 40000000 iterations:
+	-is 3.140320
+	-has an error -1.272184e-03
+	-took 8.121382e-01 seconds
+	-quality -9.678768e+02
+Node 5 (of 25) starting.
+Node 5 (of 25) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.090000e-07 seconds.
+Local 5 approx of PI with 40000000 iterations:
+	-is 3.140532
+	-has an error -1.060619e-03
+	-took 8.195654e-01 seconds
+	-quality -1.150422e+03
+Node 9 (of 25) starting.
+Node 9 (of 25) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.980000e-07 seconds.
+Local 9 approx of PI with 40000000 iterations:
+	-is 3.141836
+	-has an error 2.437928e-04
+	-took 8.391751e-01 seconds
+	-quality 4.887947e+03
+Node 20 (of 25) starting.
+Node 20 (of 25) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.240000e-07 seconds.
+Local 20 approx of PI with 40000000 iterations:
+	-is 3.140734
+	-has an error -8.588732e-04
+	-took 8.495127e-01 seconds
+	-quality -1.370569e+03
+Node 22 (of 25) starting.
+Node 22 (of 25) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.220000e-07 seconds.
+Local 22 approx of PI with 40000000 iterations:
+	-is 3.142899
+	-has an error 1.305937e-03
+	-took 8.123249e-01 seconds
+	-quality 9.426445e+02
+Node 19 (of 25) starting.
+Node 19 (of 25) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.800000e-07 seconds.
+Local 19 approx of PI with 40000000 iterations:
+	-is 3.141829
+	-has an error 2.361124e-04
+	-took 8.259291e-01 seconds
+	-quality 5.127886e+03
+Node 17 (of 25) starting.
+Node 17 (of 25) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.740000e-07 seconds.
+Local 17 approx of PI with 40000000 iterations:
+	-is 3.141867
+	-has an error 2.742258e-04
+	-took 8.232175e-01 seconds
+	-quality 4.429729e+03
+Node 14 (of 25) starting.
+Node 14 (of 25) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.340000e-07 seconds.
+Local 14 approx of PI with 40000000 iterations:
+	-is 3.142352
+	-has an error 7.595739e-04
+	-took 8.124891e-01 seconds
+	-quality 1.620363e+03
+Node 8 (of 25) starting.
+Node 8 (of 25) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.630000e-07 seconds.
+Local 8 approx of PI with 40000000 iterations:
+	-is 3.140422
+	-has an error -1.170415e-03
+	-took 8.084758e-01 seconds
+	-quality -1.056801e+03
+Node 2 (of 25) starting.
+Node 2 (of 25) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.900000e-07 seconds.
+Local 2 approx of PI with 40000000 iterations:
+	-is 3.140465
+	-has an error -1.127576e-03
+	-took 8.190802e-01 seconds
+	-quality -1.082749e+03
+Node 6 (of 25) starting.
+Node 6 (of 25) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.080000e-07 seconds.
+Local 6 approx of PI with 40000000 iterations:
+	-is 3.140675
+	-has an error -9.171938e-04
+	-took 8.115284e-01 seconds
+	-quality -1.343492e+03
+Node 12 (of 25) starting.
+Node 12 (of 25) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.310000e-07 seconds.
+Local 12 approx of PI with 40000000 iterations:
+	-is 3.140486
+	-has an error -1.107074e-03
+	-took 8.347952e-01 seconds
+	-quality -1.082040e+03
+Node 10 (of 25) starting.
+Node 10 (of 25) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.450000e-07 seconds.
+Local 10 approx of PI with 40000000 iterations:
+	-is 3.142672
+	-has an error 1.079274e-03
+	-took 8.363050e-01 seconds
+	-quality 1.107908e+03
+Node 18 (of 25) starting.
+Node 18 (of 25) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.280000e-07 seconds.
+Local 18 approx of PI with 40000000 iterations:
+	-is 3.142762
+	-has an error 1.168973e-03
+	-took 8.120759e-01 seconds
+	-quality 1.053414e+03
+Node 16 (of 25) starting.
+Node 16 (of 25) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.800000e-07 seconds.
+Local 16 approx of PI with 40000000 iterations:
+	-is 3.142191
+	-has an error 5.986097e-04
+	-took 8.566222e-01 seconds
+	-quality 1.950145e+03
+Node 1 (of 25) starting.
+Node 1 (of 25) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.590000e-07 seconds.
+Local 1 approx of PI with 40000000 iterations:
+	-is 3.143986
+	-has an error 2.393145e-03
+	-took 8.392340e-01 seconds
+	-quality 4.979065e+02
+Node 24 (of 25) starting.
+Node 24 (of 25) has time resolution of 1.000000e-09 seconds and a measure overhead of 5.290000e-07 seconds.
+Local 24 approx of PI with 40000000 iterations:
+	-is 3.143801
+	-has an error 2.208598e-03
+	-took 8.119084e-01 seconds
+	-quality 5.576687e+02
+Node 7 (of 25) starting.
+Node 7 (of 25) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.650000e-07 seconds.
+Local 7 approx of PI with 40000000 iterations:
+	-is 3.140320
+	-has an error -1.272955e-03
+	-took 8.128730e-01 seconds
+	-quality -9.664165e+02
+Node 21 (of 25) starting.
+Node 21 (of 25) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.860000e-07 seconds.
+Local 21 approx of PI with 40000000 iterations:
+	-is 3.142828
+	-has an error 1.235213e-03
+	-took 8.129294e-01 seconds
+	-quality 9.958765e+02
+Node 15 (of 25) starting.
+Node 15 (of 25) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.040000e-07 seconds.
+Local 15 approx of PI with 40000000 iterations:
+	-is 3.144792
+	-has an error 3.198895e-03
+	-took 8.123686e-01 seconds
+	-quality 3.848105e+02
+Node 4 (of 25) starting.
+Node 4 (of 25) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.050000e-07 seconds.
+Local 4 approx of PI with 40000000 iterations:
+	-is 3.142793
+	-has an error 1.200078e-03
+	-took 8.389808e-01 seconds
+	-quality 9.932045e+02
+Node 23 (of 25) starting.
+Node 23 (of 25) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.620000e-07 seconds.
+Local 23 approx of PI with 40000000 iterations:
+	-is 3.143214
+	-has an error 1.621332e-03
+	-took 8.130334e-01 seconds
+	-quality 7.586118e+02
+Node 3 (of 25) starting.
+Node 3 (of 25) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.120000e-07 seconds.
+Local 3 approx of PI with 40000000 iterations:
+	-is 3.142612
+	-has an error 1.019197e-03
+	-took 8.373077e-01 seconds
+	-quality 1.171808e+03
+Node 0 (of 25) starting.
+Node 0 (of 25) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.560000e-07 seconds.
+Local 0 approx of PI with 40000000 iterations:
+	-is 3.141019
+	-has an error -5.737533e-04
+	-took 8.223915e-01 seconds
+	-quality -2.119318e+03
+Global approx of PI with 40000000 iterations:
+	-is 3.141854
+	-has an error 2.615537e-04
+	-took 8.701675e-01 seconds
+	-quality 4.393759e+03
+Ejecutando con 26 procesadores
+Node 15 (of 26) starting.
+Node 15 (of 26) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.820000e-07 seconds.
+Local 15 approx of PI with 38461538 iterations:
+	-is 3.141593
+	-has an error 4.303989e-07
+	-took 7.834692e-01 seconds
+	-quality 2.965562e+06
+Node 10 (of 26) starting.
+Node 10 (of 26) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.130000e-07 seconds.
+Local 10 approx of PI with 38461538 iterations:
+	-is 3.140656
+	-has an error -9.362961e-04
+	-took 7.821996e-01 seconds
+	-quality -1.365429e+03
+Node 23 (of 26) starting.
+Node 23 (of 26) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.550000e-07 seconds.
+Local 23 approx of PI with 38461538 iterations:
+	-is 3.141850
+	-has an error 2.571056e-04
+	-took 7.830834e-01 seconds
+	-quality 4.966844e+03
+Node 25 (of 26) starting.
+Node 25 (of 26) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.240000e-07 seconds.
+Local 25 approx of PI with 38461538 iterations:
+	-is 3.142119
+	-has an error 5.262861e-04
+	-took 7.923600e-01 seconds
+	-quality 2.398035e+03
+Node 20 (of 26) starting.
+Node 20 (of 26) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.670000e-07 seconds.
+Local 20 approx of PI with 38461538 iterations:
+	-is 3.142890
+	-has an error 1.297153e-03
+	-took 7.836147e-01 seconds
+	-quality 9.837986e+02
+Node 18 (of 26) starting.
+Node 18 (of 26) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.730000e-07 seconds.
+Local 18 approx of PI with 38461538 iterations:
+	-is 3.140706
+	-has an error -8.869183e-04
+	-took 8.041931e-01 seconds
+	-quality -1.402026e+03
+Node 22 (of 26) starting.
+Node 22 (of 26) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.610000e-07 seconds.
+Local 22 approx of PI with 38461538 iterations:
+	-is 3.143781
+	-has an error 2.188354e-03
+	-took 8.007858e-01 seconds
+	-quality 5.706450e+02
+Node 19 (of 26) starting.
+Node 19 (of 26) has time resolution of 1.000000e-09 seconds and a measure overhead of 6.380000e-07 seconds.
+Local 19 approx of PI with 38461538 iterations:
+	-is 3.143021
+	-has an error 1.428508e-03
+	-took 7.835917e-01 seconds
+	-quality 8.933618e+02
+Node 16 (of 26) starting.
+Node 16 (of 26) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.500000e-07 seconds.
+Local 16 approx of PI with 38461538 iterations:
+	-is 3.142706
+	-has an error 1.113541e-03
+	-took 7.835635e-01 seconds
+	-quality 1.146093e+03
+Node 13 (of 26) starting.
+Node 13 (of 26) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.370000e-07 seconds.
+Local 13 approx of PI with 38461538 iterations:
+	-is 3.144984
+	-has an error 3.391773e-03
+	-took 7.967718e-01 seconds
+	-quality 3.700319e+02
+Node 17 (of 26) starting.
+Node 17 (of 26) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.370000e-07 seconds.
+Local 17 approx of PI with 38461538 iterations:
+	-is 3.141976
+	-has an error 3.837025e-04
+	-took 8.004762e-01 seconds
+	-quality 3.255794e+03
+Node 24 (of 26) starting.
+Node 24 (of 26) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.570000e-07 seconds.
+Local 24 approx of PI with 38461538 iterations:
+	-is 3.140577
+	-has an error -1.015874e-03
+	-took 7.833774e-01 seconds
+	-quality -1.256577e+03
+Node 14 (of 26) starting.
+Node 14 (of 26) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.260000e-07 seconds.
+Local 14 approx of PI with 38461538 iterations:
+	-is 3.142257
+	-has an error 6.644055e-04
+	-took 7.942253e-01 seconds
+	-quality 1.895061e+03
+Node 21 (of 26) starting.
+Node 21 (of 26) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.270000e-07 seconds.
+Local 21 approx of PI with 38461538 iterations:
+	-is 3.142897
+	-has an error 1.304202e-03
+	-took 7.837839e-01 seconds
+	-quality 9.782701e+02
+Node 4 (of 26) starting.
+Node 4 (of 26) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.130000e-07 seconds.
+Local 4 approx of PI with 38461538 iterations:
+	-is 3.140836
+	-has an error -7.565543e-04
+	-took 7.893875e-01 seconds
+	-quality -1.674440e+03
+Node 3 (of 26) starting.
+Node 3 (of 26) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.540000e-07 seconds.
+Local 3 approx of PI with 38461538 iterations:
+	-is 3.140695
+	-has an error -8.977726e-04
+	-took 8.002478e-01 seconds
+	-quality -1.391904e+03
+Node 12 (of 26) starting.
+Node 12 (of 26) has time resolution of 1.000000e-09 seconds and a measure overhead of 9.080000e-07 seconds.
+Local 12 approx of PI with 38461538 iterations:
+	-is 3.142594
+	-has an error 1.000980e-03
+	-took 7.817398e-01 seconds
+	-quality 1.277945e+03
+Node 1 (of 26) starting.
+Node 1 (of 26) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.070000e-07 seconds.
+Local 1 approx of PI with 38461538 iterations:
+	-is 3.142366
+	-has an error 7.734218e-04
+	-took 7.815288e-01 seconds
+	-quality 1.654393e+03
+Node 8 (of 26) starting.
+Node 8 (of 26) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.460000e-07 seconds.
+Local 8 approx of PI with 38461538 iterations:
+	-is 3.142894
+	-has an error 1.301531e-03
+	-took 7.810419e-01 seconds
+	-quality 9.837193e+02
+Node 5 (of 26) starting.
+Node 5 (of 26) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.390000e-07 seconds.
+Local 5 approx of PI with 38461538 iterations:
+	-is 3.140316
+	-has an error -1.276349e-03
+	-took 8.638039e-01 seconds
+	-quality -9.070172e+02
+Node 11 (of 26) starting.
+Node 11 (of 26) has time resolution of 1.000000e-09 seconds and a measure overhead of 7.510000e-07 seconds.
+Local 11 approx of PI with 38461538 iterations:
+	-is 3.140318
+	-has an error -1.274658e-03
+	-took 7.993300e-01 seconds
+	-quality -9.814769e+02
+Node 9 (of 26) starting.
+Node 9 (of 26) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.530000e-07 seconds.
+Local 9 approx of PI with 38461538 iterations:
+	-is 3.139116
+	-has an error -2.476929e-03
+	-took 8.807437e-01 seconds
+	-quality -4.583919e+02
+Node 7 (of 26) starting.
+Node 7 (of 26) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.660000e-07 seconds.
+Local 7 approx of PI with 38461538 iterations:
+	-is 3.142058
+	-has an error 4.652152e-04
+	-took 8.640556e-01 seconds
+	-quality 2.487737e+03
+Node 6 (of 26) starting.
+Node 6 (of 26) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.110000e-07 seconds.
+Local 6 approx of PI with 38461538 iterations:
+	-is 3.140608
+	-has an error -9.845137e-04
+	-took 7.992875e-01 seconds
+	-quality -1.270794e+03
+Node 2 (of 26) starting.
+Node 2 (of 26) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.460000e-07 seconds.
+Local 2 approx of PI with 38461538 iterations:
+	-is 3.143008
+	-has an error 1.415412e-03
+	-took 8.871614e-01 seconds
+	-quality 7.963691e+02
+Node 0 (of 26) starting.
+Node 0 (of 26) has time resolution of 1.000000e-09 seconds and a measure overhead of 5.800000e-07 seconds.
+Local 0 approx of PI with 38461538 iterations:
+	-is 3.140238
+	-has an error -1.355020e-03
+	-took 7.818251e-01 seconds
+	-quality -9.439410e+02
+Global approx of PI with 38461538 iterations:
+	-is 3.141810
+	-has an error 2.173138e-04
+	-took 9.004545e-01 seconds
+	-quality 5.110354e+03
+Ejecutando con 27 procesadores
+Node 25 (of 27) starting.
+Node 25 (of 27) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.920000e-07 seconds.
+Local 25 approx of PI with 37037037 iterations:
+	-is 3.141258
+	-has an error -3.347505e-04
+	-took 1.030661e+00 seconds
+	-quality -2.898430e+03
+Node 12 (of 27) starting.
+Node 12 (of 27) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.050000e-07 seconds.
+Local 12 approx of PI with 37037037 iterations:
+	-is 3.142208
+	-has an error 6.150078e-04
+	-took 8.260271e-01 seconds
+	-quality 1.968453e+03
+Node 19 (of 27) starting.
+Node 19 (of 27) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.860000e-07 seconds.
+Local 19 approx of PI with 37037037 iterations:
+	-is 3.142933
+	-has an error 1.340833e-03
+	-took 7.673449e-01 seconds
+	-quality 9.719296e+02
+Node 17 (of 27) starting.
+Node 17 (of 27) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.130000e-07 seconds.
+Local 17 approx of PI with 37037037 iterations:
+	-is 3.142888
+	-has an error 1.295690e-03
+	-took 7.805322e-01 seconds
+	-quality 9.887988e+02
+Node 24 (of 27) starting.
+Node 24 (of 27) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.420000e-07 seconds.
+Local 24 approx of PI with 37037037 iterations:
+	-is 3.142049
+	-has an error 4.562932e-04
+	-took 7.802923e-01 seconds
+	-quality 2.808657e+03
+Node 15 (of 27) starting.
+Node 15 (of 27) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.720000e-07 seconds.
+Local 15 approx of PI with 37037037 iterations:
+	-is 3.142007
+	-has an error 4.142533e-04
+	-took 7.808574e-01 seconds
+	-quality 3.091450e+03
+Node 18 (of 27) starting.
+Node 18 (of 27) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.500000e-07 seconds.
+Local 18 approx of PI with 37037037 iterations:
+	-is 3.142775
+	-has an error 1.182140e-03
+	-took 7.808105e-01 seconds
+	-quality 1.083392e+03
+Node 26 (of 27) starting.
+Node 26 (of 27) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.670000e-07 seconds.
+Local 26 approx of PI with 37037037 iterations:
+	-is 3.140998
+	-has an error -5.942771e-04
+	-took 7.806688e-01 seconds
+	-quality -2.155481e+03
+Node 22 (of 27) starting.
+Node 22 (of 27) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.910000e-07 seconds.
+Local 22 approx of PI with 37037037 iterations:
+	-is 3.140678
+	-has an error -9.149936e-04
+	-took 7.809201e-01 seconds
+	-quality -1.399508e+03
+Node 21 (of 27) starting.
+Node 21 (of 27) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.440000e-07 seconds.
+Local 21 approx of PI with 37037037 iterations:
+	-is 3.141824
+	-has an error 2.309966e-04
+	-took 7.803038e-01 seconds
+	-quality 5.547926e+03
+Node 14 (of 27) starting.
+Node 14 (of 27) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.560000e-07 seconds.
+Local 14 approx of PI with 37037037 iterations:
+	-is 3.142766
+	-has an error 1.172908e-03
+	-took 7.806260e-01 seconds
+	-quality 1.092177e+03
+Node 16 (of 27) starting.
+Node 16 (of 27) has time resolution of 1.000000e-09 seconds and a measure overhead of 5.210000e-07 seconds.
+Local 16 approx of PI with 37037037 iterations:
+	-is 3.140809
+	-has an error -7.837155e-04
+	-took 7.815860e-01 seconds
+	-quality -1.632544e+03
+Node 20 (of 27) starting.
+Node 20 (of 27) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.590000e-07 seconds.
+Local 20 approx of PI with 37037037 iterations:
+	-is 3.143902
+	-has an error 2.309620e-03
+	-took 7.805467e-01 seconds
+	-quality 5.547032e+02
+Node 23 (of 27) starting.
+Node 23 (of 27) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.570000e-07 seconds.
+Local 23 approx of PI with 37037037 iterations:
+	-is 3.142336
+	-has an error 7.436315e-04
+	-took 7.812712e-01 seconds
+	-quality 1.721236e+03
+Node 8 (of 27) starting.
+Node 8 (of 27) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.670000e-07 seconds.
+Local 8 approx of PI with 37037037 iterations:
+	-is 3.140570
+	-has an error -1.022335e-03
+	-took 7.781954e-01 seconds
+	-quality -1.256951e+03
+Node 7 (of 27) starting.
+Node 7 (of 27) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.340000e-07 seconds.
+Local 7 approx of PI with 37037037 iterations:
+	-is 3.139177
+	-has an error -2.416077e-03
+	-took 7.820923e-01 seconds
+	-quality -5.292139e+02
+Node 9 (of 27) starting.
+Node 9 (of 27) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.860000e-07 seconds.
+Local 9 approx of PI with 37037037 iterations:
+	-is 3.140216
+	-has an error -1.376843e-03
+	-took 8.031559e-01 seconds
+	-quality -9.043065e+02
+Node 3 (of 27) starting.
+Node 3 (of 27) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.940000e-07 seconds.
+Local 3 approx of PI with 37037037 iterations:
+	-is 3.140298
+	-has an error -1.295092e-03
+	-took 7.769365e-01 seconds
+	-quality -9.938338e+02
+Node 1 (of 27) starting.
+Node 1 (of 27) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.270000e-07 seconds.
+Local 1 approx of PI with 37037037 iterations:
+	-is 3.140630
+	-has an error -9.630598e-04
+	-took 8.012851e-01 seconds
+	-quality -1.295865e+03
+Node 11 (of 27) starting.
+Node 11 (of 27) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.310000e-07 seconds.
+Local 11 approx of PI with 37037037 iterations:
+	-is 3.144922
+	-has an error 3.329060e-03
+	-took 7.768234e-01 seconds
+	-quality 3.866839e+02
+Node 6 (of 27) starting.
+Node 6 (of 27) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.950000e-07 seconds.
+Local 6 approx of PI with 37037037 iterations:
+	-is 3.142836
+	-has an error 1.243537e-03
+	-took 8.541277e-01 seconds
+	-quality 9.414959e+02
+Node 13 (of 27) starting.
+Node 13 (of 27) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.070000e-07 seconds.
+Local 13 approx of PI with 37037037 iterations:
+	-is 3.141483
+	-has an error -1.092688e-04
+	-took 8.254895e-01 seconds
+	-quality -1.108644e+04
+Node 10 (of 27) starting.
+Node 10 (of 27) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.760000e-07 seconds.
+Local 10 approx of PI with 37037037 iterations:
+	-is 3.142835
+	-has an error 1.242617e-03
+	-took 8.330765e-01 seconds
+	-quality 9.660015e+02
+Node 5 (of 27) starting.
+Node 5 (of 27) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.370000e-07 seconds.
+Local 5 approx of PI with 37037037 iterations:
+	-is 3.142119
+	-has an error 5.259127e-04
+	-took 8.259998e-01 seconds
+	-quality 2.302006e+03
+Node 2 (of 27) starting.
+Node 2 (of 27) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.760000e-07 seconds.
+Local 2 approx of PI with 37037037 iterations:
+	-is 3.140711
+	-has an error -8.813013e-04
+	-took 7.739767e-01 seconds
+	-quality -1.466046e+03
+Node 4 (of 27) starting.
+Node 4 (of 27) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.670000e-07 seconds.
+Local 4 approx of PI with 37037037 iterations:
+	-is 3.140712
+	-has an error -8.801837e-04
+	-took 8.643940e-01 seconds
+	-quality -1.314362e+03
+Node 0 (of 27) starting.
+Node 0 (of 27) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.640000e-07 seconds.
+Local 0 approx of PI with 37037037 iterations:
+	-is 3.143017
+	-has an error 1.424156e-03
+	-took 7.766337e-01 seconds
+	-quality 9.041200e+02
+Global approx of PI with 37037037 iterations:
+	-is 3.141813
+	-has an error 2.205435e-04
+	-took 1.041085e+00 seconds
+	-quality 4.355313e+03
+Ejecutando con 28 procesadores
+Node 12 (of 28) starting.
+Node 12 (of 28) has time resolution of 1.000000e-09 seconds and a measure overhead of 7.470000e-07 seconds.
+Local 12 approx of PI with 35714285 iterations:
+	-is 3.142774
+	-has an error 1.181641e-03
+	-took 7.240551e-01 seconds
+	-quality 1.168807e+03
+Node 25 (of 28) starting.
+Node 25 (of 28) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.160000e-07 seconds.
+Local 25 approx of PI with 35714285 iterations:
+	-is 3.142112
+	-has an error 5.188812e-04
+	-took 7.448087e-01 seconds
+	-quality 2.587541e+03
+Node 6 (of 28) starting.
+Node 6 (of 28) has time resolution of 1.000000e-09 seconds and a measure overhead of 5.340000e-07 seconds.
+Local 6 approx of PI with 35714285 iterations:
+	-is 3.140614
+	-has an error -9.782190e-04
+	-took 7.244574e-01 seconds
+	-quality -1.411078e+03
+Node 1 (of 28) starting.
+Node 1 (of 28) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.240000e-07 seconds.
+Local 1 approx of PI with 35714285 iterations:
+	-is 3.140313
+	-has an error -1.279159e-03
+	-took 1.043897e+00 seconds
+	-quality -7.488898e+02
+Node 11 (of 28) starting.
+Node 11 (of 28) has time resolution of 1.000000e-09 seconds and a measure overhead of 5.370000e-07 seconds.
+Local 11 approx of PI with 35714285 iterations:
+	-is 3.141646
+	-has an error 5.343056e-05
+	-took 7.953193e-01 seconds
+	-quality 2.353254e+04
+Node 7 (of 28) starting.
+Node 7 (of 28) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.070000e-07 seconds.
+Local 7 approx of PI with 35714285 iterations:
+	-is 3.140189
+	-has an error -1.403573e-03
+	-took 7.251961e-01 seconds
+	-quality -9.824481e+02
+Node 13 (of 28) starting.
+Node 13 (of 28) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.180000e-07 seconds.
+Local 13 approx of PI with 35714285 iterations:
+	-is 3.142023
+	-has an error 4.302922e-04
+	-took 7.235756e-01 seconds
+	-quality 3.211830e+03
+Node 10 (of 28) starting.
+Node 10 (of 28) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.720000e-07 seconds.
+Local 10 approx of PI with 35714285 iterations:
+	-is 3.142142
+	-has an error 5.490678e-04
+	-took 7.241494e-01 seconds
+	-quality 2.515045e+03
+Node 3 (of 28) starting.
+Node 3 (of 28) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.340000e-07 seconds.
+Local 3 approx of PI with 35714285 iterations:
+	-is 3.141940
+	-has an error 3.470003e-04
+	-took 7.367778e-01 seconds
+	-quality 3.911412e+03
+Node 9 (of 28) starting.
+Node 9 (of 28) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.910000e-07 seconds.
+Local 9 approx of PI with 35714285 iterations:
+	-is 3.144769
+	-has an error 3.176824e-03
+	-took 7.241237e-01 seconds
+	-quality 4.347045e+02
+Node 4 (of 28) starting.
+Node 4 (of 28) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.970000e-07 seconds.
+Local 4 approx of PI with 35714285 iterations:
+	-is 3.142725
+	-has an error 1.131973e-03
+	-took 7.363286e-01 seconds
+	-quality 1.199754e+03
+Node 2 (of 28) starting.
+Node 2 (of 28) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.370000e-07 seconds.
+Local 2 approx of PI with 35714285 iterations:
+	-is 3.141020
+	-has an error -5.725542e-04
+	-took 7.372266e-01 seconds
+	-quality -2.369094e+03
+Node 8 (of 28) starting.
+Node 8 (of 28) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.610000e-07 seconds.
+Local 8 approx of PI with 35714285 iterations:
+	-is 3.142695
+	-has an error 1.102187e-03
+	-took 7.238874e-01 seconds
+	-quality 1.253354e+03
+Node 5 (of 28) starting.
+Node 5 (of 28) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.280000e-07 seconds.
+Local 5 approx of PI with 35714285 iterations:
+	-is 3.139327
+	-has an error -2.265882e-03
+	-took 7.378041e-01 seconds
+	-quality -5.981660e+02
+Node 0 (of 28) starting.
+Node 0 (of 28) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.760000e-07 seconds.
+Local 0 approx of PI with 35714285 iterations:
+	-is 3.140770
+	-has an error -8.224457e-04
+	-took 7.359185e-01 seconds
+	-quality -1.652202e+03
+Global approx of PI with 35714285 iterations:
+	-is 3.141801
+	-has an error 2.083952e-04
+	-took 1.048432e+00 seconds
+	-quality 4.576909e+03
+Node 15 (of 28) starting.
+Node 15 (of 28) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.490000e-07 seconds.
+Local 15 approx of PI with 35714285 iterations:
+	-is 3.142783
+	-has an error 1.190197e-03
+	-took 7.229240e-01 seconds
+	-quality 1.162220e+03
+Node 19 (of 28) starting.
+Node 19 (of 28) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.120000e-07 seconds.
+Local 19 approx of PI with 35714285 iterations:
+	-is 3.141653
+	-has an error 6.026635e-05
+	-took 7.497665e-01 seconds
+	-quality 2.213090e+04
+Node 14 (of 28) starting.
+Node 14 (of 28) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.280000e-07 seconds.
+Local 14 approx of PI with 35714285 iterations:
+	-is 3.140529
+	-has an error -1.063428e-03
+	-took 7.216981e-01 seconds
+	-quality -1.302976e+03
+Node 16 (of 28) starting.
+Node 16 (of 28) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.320000e-07 seconds.
+Local 16 approx of PI with 35714285 iterations:
+	-is 3.142866
+	-has an error 1.273793e-03
+	-took 7.348339e-01 seconds
+	-quality 1.068346e+03
+Node 20 (of 28) starting.
+Node 20 (of 28) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.320000e-07 seconds.
+Local 20 approx of PI with 35714285 iterations:
+	-is 3.140707
+	-has an error -8.856370e-04
+	-took 7.234636e-01 seconds
+	-quality -1.560729e+03
+Node 17 (of 28) starting.
+Node 17 (of 28) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.450000e-07 seconds.
+Local 17 approx of PI with 35714285 iterations:
+	-is 3.143115
+	-has an error 1.522778e-03
+	-took 7.546436e-01 seconds
+	-quality 8.702048e+02
+Node 26 (of 28) starting.
+Node 26 (of 28) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.690000e-07 seconds.
+Local 26 approx of PI with 35714285 iterations:
+	-is 3.141382
+	-has an error -2.102387e-04
+	-took 7.279415e-01 seconds
+	-quality -6.534176e+03
+Node 23 (of 28) starting.
+Node 23 (of 28) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.400000e-07 seconds.
+Local 23 approx of PI with 35714285 iterations:
+	-is 3.141151
+	-has an error -4.421162e-04
+	-took 7.380004e-01 seconds
+	-quality -3.064834e+03
+Node 22 (of 28) starting.
+Node 22 (of 28) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.250000e-07 seconds.
+Local 22 approx of PI with 35714285 iterations:
+	-is 3.142239
+	-has an error 6.461247e-04
+	-took 7.238750e-01 seconds
+	-quality 2.138061e+03
+Node 24 (of 28) starting.
+Node 24 (of 28) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.350000e-07 seconds.
+Local 24 approx of PI with 35714285 iterations:
+	-is 3.140762
+	-has an error -8.306287e-04
+	-took 7.477814e-01 seconds
+	-quality -1.609972e+03
+Node 18 (of 28) starting.
+Node 18 (of 28) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.640000e-07 seconds.
+Local 18 approx of PI with 35714285 iterations:
+	-is 3.143832
+	-has an error 2.239787e-03
+	-took 7.404642e-01 seconds
+	-quality 6.029609e+02
+Node 21 (of 28) starting.
+Node 21 (of 28) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.250000e-07 seconds.
+Local 21 approx of PI with 35714285 iterations:
+	-is 3.142551
+	-has an error 9.581317e-04
+	-took 7.481155e-01 seconds
+	-quality 1.395103e+03
+Node 27 (of 28) starting.
+Node 27 (of 28) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.330000e-07 seconds.
+Local 27 approx of PI with 35714285 iterations:
+	-is 3.141801
+	-has an error 2.083287e-04
+	-took 7.601096e-01 seconds
+	-quality 6.315020e+03
+Ejecutando con 29 procesadores
+Node 1 (of 29) starting.
+Node 1 (of 29) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.500000e-07 seconds.
+Local 1 approx of PI with 34482758 iterations:
+	-is 3.141886
+	-has an error 2.931908e-04
+	-took 7.093834e-01 seconds
+	-quality 4.808045e+03
+Node 21 (of 29) starting.
+Node 21 (of 29) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.500000e-07 seconds.
+Local 21 approx of PI with 34482758 iterations:
+	-is 3.141228
+	-has an error -3.649925e-04
+	-took 7.391341e-01 seconds
+	-quality -3.706745e+03
+Node 3 (of 29) starting.
+Node 3 (of 29) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.890000e-07 seconds.
+Local 3 approx of PI with 34482758 iterations:
+	-is 3.139424
+	-has an error -2.168546e-03
+	-took 6.995679e-01 seconds
+	-quality -6.591763e+02
+Node 5 (of 29) starting.
+Node 5 (of 29) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.900000e-07 seconds.
+Local 5 approx of PI with 34482758 iterations:
+	-is 3.140446
+	-has an error -1.146562e-03
+	-took 7.414798e-01 seconds
+	-quality -1.176260e+03
+Node 6 (of 29) starting.
+Node 6 (of 29) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.710000e-07 seconds.
+Local 6 approx of PI with 34482758 iterations:
+	-is 3.142479
+	-has an error 8.858822e-04
+	-took 7.416327e-01 seconds
+	-quality 1.522072e+03
+Node 14 (of 29) starting.
+Node 14 (of 29) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.860000e-07 seconds.
+Local 14 approx of PI with 34482758 iterations:
+	-is 3.143066
+	-has an error 1.473156e-03
+	-took 7.629238e-01 seconds
+	-quality 8.897542e+02
+Node 8 (of 29) starting.
+Node 8 (of 29) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.830000e-07 seconds.
+Local 8 approx of PI with 34482758 iterations:
+	-is 3.142306
+	-has an error 7.131832e-04
+	-took 7.725664e-01 seconds
+	-quality 1.814944e+03
+Node 2 (of 29) starting.
+Node 2 (of 29) has time resolution of 1.000000e-09 seconds and a measure overhead of 7.070000e-07 seconds.
+Local 2 approx of PI with 34482758 iterations:
+	-is 3.142784
+	-has an error 1.191712e-03
+	-took 7.104036e-01 seconds
+	-quality 1.181200e+03
+Node 13 (of 29) starting.
+Node 13 (of 29) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.850000e-07 seconds.
+Local 13 approx of PI with 34482758 iterations:
+	-is 3.142241
+	-has an error 6.483425e-04
+	-took 7.447563e-01 seconds
+	-quality 2.071006e+03
+Node 12 (of 29) starting.
+Node 12 (of 29) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.730000e-07 seconds.
+Local 12 approx of PI with 34482758 iterations:
+	-is 3.140328
+	-has an error -1.264198e-03
+	-took 7.199742e-01 seconds
+	-quality -1.098672e+03
+Node 11 (of 29) starting.
+Node 11 (of 29) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.500000e-07 seconds.
+Local 11 approx of PI with 34482758 iterations:
+	-is 3.142111
+	-has an error 5.181515e-04
+	-took 7.630136e-01 seconds
+	-quality 2.529362e+03
+Node 4 (of 29) starting.
+Node 4 (of 29) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.430000e-07 seconds.
+Local 4 approx of PI with 34482758 iterations:
+	-is 3.140579
+	-has an error -1.013803e-03
+	-took 7.412762e-01 seconds
+	-quality -1.330658e+03
+Node 7 (of 29) starting.
+Node 7 (of 29) has time resolution of 1.000000e-09 seconds and a measure overhead of 8.140000e-07 seconds.
+Local 7 approx of PI with 34482758 iterations:
+	-is 3.144867
+	-has an error 3.274260e-03
+	-took 6.987562e-01 seconds
+	-quality 4.370803e+02
+Node 9 (of 29) starting.
+Node 9 (of 29) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.200000e-07 seconds.
+Local 9 approx of PI with 34482758 iterations:
+	-is 3.141490
+	-has an error -1.027141e-04
+	-took 7.407994e-01 seconds
+	-quality -1.314224e+04
+Node 10 (of 29) starting.
+Node 10 (of 29) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.140000e-07 seconds.
+Local 10 approx of PI with 34482758 iterations:
+	-is 3.142758
+	-has an error 1.164877e-03
+	-took 7.194776e-01 seconds
+	-quality 1.193171e+03
+Node 0 (of 29) starting.
+Node 0 (of 29) has time resolution of 1.000000e-09 seconds and a measure overhead of 5.380000e-07 seconds.
+Local 0 approx of PI with 34482758 iterations:
+	-is 3.141263
+	-has an error -3.293462e-04
+	-took 6.974410e-01 seconds
+	-quality -4.353514e+03
+Global approx of PI with 34482758 iterations:
+	-is 3.141907
+	-has an error 3.145736e-04
+	-took 7.759238e-01 seconds
+	-quality 4.096931e+03
+Node 24 (of 29) starting.
+Node 24 (of 29) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.910000e-07 seconds.
+Local 24 approx of PI with 34482758 iterations:
+	-is 3.141299
+	-has an error -2.936653e-04
+	-took 7.160542e-01 seconds
+	-quality -4.755557e+03
+Node 27 (of 29) starting.
+Node 27 (of 29) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.310000e-07 seconds.
+Local 27 approx of PI with 34482758 iterations:
+	-is 3.142503
+	-has an error 9.106272e-04
+	-took 7.424481e-01 seconds
+	-quality 1.479086e+03
+Node 23 (of 29) starting.
+Node 23 (of 29) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.340000e-07 seconds.
+Local 23 approx of PI with 34482758 iterations:
+	-is 3.142244
+	-has an error 6.509222e-04
+	-took 7.166329e-01 seconds
+	-quality 2.143750e+03
+Node 25 (of 29) starting.
+Node 25 (of 29) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.470000e-07 seconds.
+Local 25 approx of PI with 34482758 iterations:
+	-is 3.141774
+	-has an error 1.809879e-04
+	-took 7.555471e-01 seconds
+	-quality 7.312887e+03
+Node 20 (of 29) starting.
+Node 20 (of 29) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.160000e-07 seconds.
+Local 20 approx of PI with 34482758 iterations:
+	-is 3.142088
+	-has an error 4.952102e-04
+	-took 7.160135e-01 seconds
+	-quality 2.820260e+03
+Node 16 (of 29) starting.
+Node 16 (of 29) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.530000e-07 seconds.
+Local 16 approx of PI with 34482758 iterations:
+	-is 3.143867
+	-has an error 2.274590e-03
+	-took 7.170457e-01 seconds
+	-quality 6.131264e+02
+Node 26 (of 29) starting.
+Node 26 (of 29) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.560000e-07 seconds.
+Local 26 approx of PI with 34482758 iterations:
+	-is 3.140020
+	-has an error -1.572443e-03
+	-took 7.158804e-01 seconds
+	-quality -8.883513e+02
+Node 17 (of 29) starting.
+Node 17 (of 29) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.220000e-07 seconds.
+Local 17 approx of PI with 34482758 iterations:
+	-is 3.141794
+	-has an error 2.015521e-04
+	-took 7.161039e-01 seconds
+	-quality 6.928459e+03
+Node 22 (of 29) starting.
+Node 22 (of 29) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.780000e-07 seconds.
+Local 22 approx of PI with 34482758 iterations:
+	-is 3.140820
+	-has an error -7.725226e-04
+	-took 7.573784e-01 seconds
+	-quality -1.709133e+03
+Node 18 (of 29) starting.
+Node 18 (of 29) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.590000e-07 seconds.
+Local 18 approx of PI with 34482758 iterations:
+	-is 3.140843
+	-has an error -7.500574e-04
+	-took 7.156527e-01 seconds
+	-quality -1.862959e+03
+Node 28 (of 29) starting.
+Node 28 (of 29) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.730000e-07 seconds.
+Local 28 approx of PI with 34482758 iterations:
+	-is 3.143072
+	-has an error 1.478978e-03
+	-took 7.298662e-01 seconds
+	-quality 9.263924e+02
+Node 15 (of 29) starting.
+Node 15 (of 29) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.010000e-07 seconds.
+Local 15 approx of PI with 34482758 iterations:
+	-is 3.143060
+	-has an error 1.467694e-03
+	-took 7.513910e-01 seconds
+	-quality 9.067726e+02
+Node 19 (of 29) starting.
+Node 19 (of 29) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.780000e-07 seconds.
+Local 19 approx of PI with 34482758 iterations:
+	-is 3.142672
+	-has an error 1.079806e-03
+	-took 7.146942e-01 seconds
+	-quality 1.295789e+03
+Ejecutando con 30 procesadores
+Node 7 (of 30) starting.
+Node 7 (of 30) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.380000e-07 seconds.
+Local 7 approx of PI with 33333333 iterations:
+	-is 3.141419
+	-has an error -1.735589e-04
+	-took 6.726619e-01 seconds
+	-quality -8.565573e+03
+Node 19 (of 30) starting.
+Node 19 (of 30) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.730000e-07 seconds.
+Local 19 approx of PI with 33333333 iterations:
+	-is 3.141497
+	-has an error -9.591284e-05
+	-took 9.253160e-01 seconds
+	-quality -1.126765e+04
+Node 3 (of 30) starting.
+Node 3 (of 30) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.890000e-07 seconds.
+Local 3 approx of PI with 33333333 iterations:
+	-is 3.140590
+	-has an error -1.003125e-03
+	-took 7.291683e-01 seconds
+	-quality -1.367154e+03
+Node 1 (of 30) starting.
+Node 1 (of 30) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.770000e-07 seconds.
+Local 1 approx of PI with 33333333 iterations:
+	-is 3.139474
+	-has an error -2.118872e-03
+	-took 7.203500e-01 seconds
+	-quality -6.551664e+02
+Node 13 (of 30) starting.
+Node 13 (of 30) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.560000e-07 seconds.
+Local 13 approx of PI with 33333333 iterations:
+	-is 3.143111
+	-has an error 1.518269e-03
+	-took 6.760965e-01 seconds
+	-quality 9.741875e+02
+Node 5 (of 30) starting.
+Node 5 (of 30) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.390000e-07 seconds.
+Local 5 approx of PI with 33333333 iterations:
+	-is 3.145074
+	-has an error 3.480873e-03
+	-took 7.014977e-01 seconds
+	-quality 4.095298e+02
+Node 14 (of 30) starting.
+Node 14 (of 30) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.470000e-07 seconds.
+Local 14 approx of PI with 33333333 iterations:
+	-is 3.144015
+	-has an error 2.422280e-03
+	-took 7.285742e-01 seconds
+	-quality 5.666329e+02
+Node 6 (of 30) starting.
+Node 6 (of 30) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.880000e-07 seconds.
+Local 6 approx of PI with 33333333 iterations:
+	-is 3.142221
+	-has an error 6.284540e-04
+	-took 6.764322e-01 seconds
+	-quality 2.352351e+03
+Node 9 (of 30) starting.
+Node 9 (of 30) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.150000e-07 seconds.
+Local 9 approx of PI with 33333333 iterations:
+	-is 3.142115
+	-has an error 5.227234e-04
+	-took 7.064831e-01 seconds
+	-quality 2.707860e+03
+Node 12 (of 30) starting.
+Node 12 (of 30) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.140000e-07 seconds.
+Local 12 approx of PI with 33333333 iterations:
+	-is 3.143127
+	-has an error 1.534537e-03
+	-took 7.067527e-01 seconds
+	-quality 9.220515e+02
+Node 2 (of 30) starting.
+Node 2 (of 30) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.920000e-07 seconds.
+Local 2 approx of PI with 33333333 iterations:
+	-is 3.140552
+	-has an error -1.040486e-03
+	-took 7.061579e-01 seconds
+	-quality -1.361012e+03
+Node 11 (of 30) starting.
+Node 11 (of 30) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.330000e-07 seconds.
+Local 11 approx of PI with 33333333 iterations:
+	-is 3.142214
+	-has an error 6.217315e-04
+	-took 6.762606e-01 seconds
+	-quality 2.378390e+03
+Node 10 (of 30) starting.
+Node 10 (of 30) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.600000e-07 seconds.
+Local 10 approx of PI with 33333333 iterations:
+	-is 3.140343
+	-has an error -1.250061e-03
+	-took 6.760142e-01 seconds
+	-quality -1.183349e+03
+Node 8 (of 30) starting.
+Node 8 (of 30) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.640000e-07 seconds.
+Local 8 approx of PI with 33333333 iterations:
+	-is 3.142664
+	-has an error 1.070994e-03
+	-took 6.763110e-01 seconds
+	-quality 1.380595e+03
+Node 4 (of 30) starting.
+Node 4 (of 30) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.550000e-07 seconds.
+Local 4 approx of PI with 33333333 iterations:
+	-is 3.142406
+	-has an error 8.131666e-04
+	-took 8.474777e-01 seconds
+	-quality 1.451083e+03
+Node 0 (of 30) starting.
+Node 0 (of 30) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.910000e-07 seconds.
+Local 0 approx of PI with 33333333 iterations:
+	-is 3.142852
+	-has an error 1.259222e-03
+	-took 6.882952e-01 seconds
+	-quality 1.153780e+03
+Global approx of PI with 33333333 iterations:
+	-is 3.141951
+	-has an error 3.584885e-04
+	-took 9.339153e-01 seconds
+	-quality 2.986876e+03
+Node 25 (of 30) starting.
+Node 25 (of 30) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.680000e-07 seconds.
+Local 25 approx of PI with 33333333 iterations:
+	-is 3.142358
+	-has an error 7.651610e-04
+	-took 6.875448e-01 seconds
+	-quality 1.900842e+03
+Node 29 (of 30) starting.
+Node 29 (of 30) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.410000e-07 seconds.
+Local 29 approx of PI with 33333333 iterations:
+	-is 3.141919
+	-has an error 3.261604e-04
+	-took 6.854022e-01 seconds
+	-quality 4.473251e+03
+Node 28 (of 30) starting.
+Node 28 (of 30) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.300000e-07 seconds.
+Local 28 approx of PI with 33333333 iterations:
+	-is 3.142170
+	-has an error 5.775720e-04
+	-took 6.878121e-01 seconds
+	-quality 2.517237e+03
+Node 20 (of 30) starting.
+Node 20 (of 30) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.650000e-07 seconds.
+Local 20 approx of PI with 33333333 iterations:
+	-is 3.140918
+	-has an error -6.748472e-04
+	-took 6.880235e-01 seconds
+	-quality -2.153730e+03
+Node 27 (of 30) starting.
+Node 27 (of 30) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.400000e-07 seconds.
+Local 27 approx of PI with 33333333 iterations:
+	-is 3.142107
+	-has an error 5.144346e-04
+	-took 6.854474e-01 seconds
+	-quality 2.835931e+03
+Node 26 (of 30) starting.
+Node 26 (of 30) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.910000e-07 seconds.
+Local 26 approx of PI with 33333333 iterations:
+	-is 3.143082
+	-has an error 1.488917e-03
+	-took 6.882595e-01 seconds
+	-quality 9.758373e+02
+Node 23 (of 30) starting.
+Node 23 (of 30) has time resolution of 1.000000e-09 seconds and a measure overhead of 6.340000e-07 seconds.
+Local 23 approx of PI with 33333333 iterations:
+	-is 3.141746
+	-has an error 1.533626e-04
+	-took 6.886399e-01 seconds
+	-quality 9.468655e+03
+Node 21 (of 30) starting.
+Node 21 (of 30) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.350000e-07 seconds.
+Local 21 approx of PI with 33333333 iterations:
+	-is 3.142057
+	-has an error 4.643999e-04
+	-took 6.890283e-01 seconds
+	-quality 3.125150e+03
+Node 24 (of 30) starting.
+Node 24 (of 30) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.120000e-07 seconds.
+Local 24 approx of PI with 33333333 iterations:
+	-is 3.139972
+	-has an error -1.620443e-03
+	-took 7.016873e-01 seconds
+	-quality -8.794731e+02
+Node 22 (of 30) starting.
+Node 22 (of 30) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.890000e-07 seconds.
+Local 22 approx of PI with 33333333 iterations:
+	-is 3.141412
+	-has an error -1.805859e-04
+	-took 6.877640e-01 seconds
+	-quality -8.051499e+03
+Node 15 (of 30) starting.
+Node 15 (of 30) has time resolution of 1.000000e-09 seconds and a measure overhead of 5.200000e-07 seconds.
+Local 15 approx of PI with 33333333 iterations:
+	-is 3.141717
+	-has an error 1.247515e-04
+	-took 6.891056e-01 seconds
+	-quality 1.163238e+04
+Node 17 (of 30) starting.
+Node 17 (of 30) has time resolution of 1.000000e-09 seconds and a measure overhead of 6.550000e-07 seconds.
+Local 17 approx of PI with 33333333 iterations:
+	-is 3.142567
+	-has an error 9.746360e-04
+	-took 6.881136e-01 seconds
+	-quality 1.491068e+03
+Node 18 (of 30) starting.
+Node 18 (of 30) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.400000e-07 seconds.
+Local 18 approx of PI with 33333333 iterations:
+	-is 3.141896
+	-has an error 3.037434e-04
+	-took 6.881894e-01 seconds
+	-quality 4.783934e+03
+Node 16 (of 30) starting.
+Node 16 (of 30) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.820000e-07 seconds.
+Local 16 approx of PI with 33333333 iterations:
+	-is 3.140941
+	-has an error -6.518987e-04
+	-took 6.876723e-01 seconds
+	-quality -2.230686e+03
+Ejecutando con 31 procesadores
+Node 11 (of 31) starting.
+Node 11 (of 31) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.287000e-06 seconds.
+Local 11 approx of PI with 32258064 iterations:
+	-is 3.143153
+	-has an error 1.560331e-03
+	-took 7.292320e-01 seconds
+	-quality 8.788557e+02
+Node 27 (of 31) starting.
+Node 27 (of 31) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.620000e-07 seconds.
+Local 27 approx of PI with 32258064 iterations:
+	-is 3.141962
+	-has an error 3.689375e-04
+	-took 6.670362e-01 seconds
+	-quality 4.063478e+03
+Node 4 (of 31) starting.
+Node 4 (of 31) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.760000e-07 seconds.
+Local 4 approx of PI with 32258064 iterations:
+	-is 3.142215
+	-has an error 6.224441e-04
+	-took 6.549731e-01 seconds
+	-quality 2.452879e+03
+Node 8 (of 31) starting.
+Node 8 (of 31) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.430000e-07 seconds.
+Local 8 approx of PI with 32258064 iterations:
+	-is 3.140235
+	-has an error -1.357167e-03
+	-took 6.526016e-01 seconds
+	-quality -1.129064e+03
+Node 6 (of 31) starting.
+Node 6 (of 31) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.530000e-07 seconds.
+Local 6 approx of PI with 32258064 iterations:
+	-is 3.142793
+	-has an error 1.200575e-03
+	-took 6.537227e-01 seconds
+	-quality 1.274140e+03
+Node 7 (of 31) starting.
+Node 7 (of 31) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.410000e-07 seconds.
+Local 7 approx of PI with 32258064 iterations:
+	-is 3.142158
+	-has an error 5.652502e-04
+	-took 7.291903e-01 seconds
+	-quality 2.426154e+03
+Node 10 (of 31) starting.
+Node 10 (of 31) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.250000e-07 seconds.
+Local 10 approx of PI with 32258064 iterations:
+	-is 3.143306
+	-has an error 1.713681e-03
+	-took 6.540400e-01 seconds
+	-quality 8.922069e+02
+Node 14 (of 31) starting.
+Node 14 (of 31) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.500000e-07 seconds.
+Local 14 approx of PI with 32258064 iterations:
+	-is 3.140996
+	-has an error -5.962558e-04
+	-took 6.548414e-01 seconds
+	-quality -2.561128e+03
+Node 2 (of 31) starting.
+Node 2 (of 31) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.120000e-07 seconds.
+Local 2 approx of PI with 32258064 iterations:
+	-is 3.142630
+	-has an error 1.037353e-03
+	-took 6.546770e-01 seconds
+	-quality 1.472469e+03
+Node 3 (of 31) starting.
+Node 3 (of 31) has time resolution of 1.000000e-09 seconds and a measure overhead of 5.160000e-07 seconds.
+Local 3 approx of PI with 32258064 iterations:
+	-is 3.145080
+	-has an error 3.487733e-03
+	-took 7.298103e-01 seconds
+	-quality 3.928682e+02
+Node 13 (of 31) starting.
+Node 13 (of 31) has time resolution of 1.000000e-09 seconds and a measure overhead of 5.000000e-07 seconds.
+Local 13 approx of PI with 32258064 iterations:
+	-is 3.141657
+	-has an error 6.428027e-05
+	-took 7.285490e-01 seconds
+	-quality 2.135323e+04
+Node 1 (of 31) starting.
+Node 1 (of 31) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.680000e-07 seconds.
+Local 1 approx of PI with 32258064 iterations:
+	-is 3.140580
+	-has an error -1.012964e-03
+	-took 7.295726e-01 seconds
+	-quality -1.353124e+03
+Node 5 (of 31) starting.
+Node 5 (of 31) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.160000e-07 seconds.
+Local 5 approx of PI with 32258064 iterations:
+	-is 3.141490
+	-has an error -1.026068e-04
+	-took 7.293457e-01 seconds
+	-quality -1.336258e+04
+Node 9 (of 31) starting.
+Node 9 (of 31) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.110000e-07 seconds.
+Local 9 approx of PI with 32258064 iterations:
+	-is 3.142369
+	-has an error 7.758538e-04
+	-took 7.290201e-01 seconds
+	-quality 1.767993e+03
+Node 15 (of 31) starting.
+Node 15 (of 31) has time resolution of 1.000000e-09 seconds and a measure overhead of 7.050000e-07 seconds.
+Local 15 approx of PI with 32258064 iterations:
+	-is 3.142330
+	-has an error 7.368615e-04
+	-took 7.298299e-01 seconds
+	-quality 1.859484e+03
+Node 12 (of 31) starting.
+Node 12 (of 31) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.560000e-07 seconds.
+Local 12 approx of PI with 32258064 iterations:
+	-is 3.144309
+	-has an error 2.715881e-03
+	-took 6.539629e-01 seconds
+	-quality 5.630360e+02
+Node 0 (of 31) starting.
+Node 0 (of 31) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.280000e-07 seconds.
+Local 0 approx of PI with 32258064 iterations:
+	-is 3.140539
+	-has an error -1.054113e-03
+	-took 6.548536e-01 seconds
+	-quality -1.448668e+03
+Global approx of PI with 32258064 iterations:
+	-is 3.141961
+	-has an error 3.681637e-04
+	-took 7.446132e-01 seconds
+	-quality 3.647777e+03
+Node 18 (of 31) starting.
+Node 18 (of 31) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.730000e-07 seconds.
+Local 18 approx of PI with 32258064 iterations:
+	-is 3.140944
+	-has an error -6.489652e-04
+	-took 6.655252e-01 seconds
+	-quality -2.315336e+03
+Node 29 (of 31) starting.
+Node 29 (of 31) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.590000e-07 seconds.
+Local 29 approx of PI with 32258064 iterations:
+	-is 3.141498
+	-has an error -9.505078e-05
+	-took 6.693597e-01 seconds
+	-quality -1.571755e+04
+Node 24 (of 31) starting.
+Node 24 (of 31) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.550000e-07 seconds.
+Local 24 approx of PI with 32258064 iterations:
+	-is 3.143143
+	-has an error 1.550764e-03
+	-took 6.639944e-01 seconds
+	-quality 9.711579e+02
+Node 23 (of 31) starting.
+Node 23 (of 31) has time resolution of 1.000000e-09 seconds and a measure overhead of 5.830000e-07 seconds.
+Local 23 approx of PI with 32258064 iterations:
+	-is 3.142535
+	-has an error 9.423785e-04
+	-took 6.660607e-01 seconds
+	-quality 1.593165e+03
+Node 30 (of 31) starting.
+Node 30 (of 31) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.830000e-07 seconds.
+Local 30 approx of PI with 32258064 iterations:
+	-is 3.141689
+	-has an error 9.631297e-05
+	-took 6.665197e-01 seconds
+	-quality 1.557766e+04
+Node 17 (of 31) starting.
+Node 17 (of 31) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.710000e-07 seconds.
+Local 17 approx of PI with 32258064 iterations:
+	-is 3.141654
+	-has an error 6.113103e-05
+	-took 6.667917e-01 seconds
+	-quality 2.453286e+04
+Node 26 (of 31) starting.
+Node 26 (of 31) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.820000e-07 seconds.
+Local 26 approx of PI with 32258064 iterations:
+	-is 3.142247
+	-has an error 6.544763e-04
+	-took 6.667541e-01 seconds
+	-quality 2.291608e+03
+Node 20 (of 31) starting.
+Node 20 (of 31) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.530000e-07 seconds.
+Local 20 approx of PI with 32258064 iterations:
+	-is 3.141499
+	-has an error -9.407276e-05
+	-took 6.659986e-01 seconds
+	-quality -1.596110e+04
+Node 22 (of 31) starting.
+Node 22 (of 31) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.120000e-07 seconds.
+Local 22 approx of PI with 32258064 iterations:
+	-is 3.140059
+	-has an error -1.533694e-03
+	-took 6.638993e-01 seconds
+	-quality -9.821077e+02
+Node 19 (of 31) starting.
+Node 19 (of 31) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.110000e-07 seconds.
+Local 19 approx of PI with 32258064 iterations:
+	-is 3.141812
+	-has an error 2.197734e-04
+	-took 6.659926e-01 seconds
+	-quality 6.832120e+03
+Node 21 (of 31) starting.
+Node 21 (of 31) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.470000e-07 seconds.
+Local 21 approx of PI with 32258064 iterations:
+	-is 3.141714
+	-has an error 1.215780e-04
+	-took 6.658355e-01 seconds
+	-quality 1.235316e+04
+Node 28 (of 31) starting.
+Node 28 (of 31) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.860000e-07 seconds.
+Local 28 approx of PI with 32258064 iterations:
+	-is 3.140561
+	-has an error -1.031653e-03
+	-took 6.658483e-01 seconds
+	-quality -1.455764e+03
+Node 16 (of 31) starting.
+Node 16 (of 31) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.440000e-07 seconds.
+Local 16 approx of PI with 32258064 iterations:
+	-is 3.141819
+	-has an error 2.261535e-04
+	-took 7.337779e-01 seconds
+	-quality 6.026042e+03
+Node 25 (of 31) starting.
+Node 25 (of 31) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.000000e-07 seconds.
+Local 25 approx of PI with 32258064 iterations:
+	-is 3.141812
+	-has an error 2.194261e-04
+	-took 6.665176e-01 seconds
+	-quality 6.837542e+03
+Ejecutando con 32 procesadores
+Node 8 (of 32) starting.
+Node 8 (of 32) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.460000e-07 seconds.
+Local 8 approx of PI with 31250000 iterations:
+	-is 3.143373
+	-has an error 1.779848e-03
+	-took 6.770340e-01 seconds
+	-quality 8.298633e+02
+Node 19 (of 32) starting.
+Node 19 (of 32) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.340000e-07 seconds.
+Local 19 approx of PI with 31250000 iterations:
+	-is 3.141828
+	-has an error 2.352027e-04
+	-took 6.608128e-01 seconds
+	-quality 6.433972e+03
+Node 10 (of 32) starting.
+Node 10 (of 32) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.410000e-07 seconds.
+Local 10 approx of PI with 31250000 iterations:
+	-is 3.144359
+	-has an error 2.766336e-03
+	-took 6.777756e-01 seconds
+	-quality 5.333462e+02
+Node 4 (of 32) starting.
+Node 4 (of 32) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.590000e-07 seconds.
+Local 4 approx of PI with 31250000 iterations:
+	-is 3.142762
+	-has an error 1.169605e-03
+	-took 6.757285e-01 seconds
+	-quality 1.265286e+03
+Node 6 (of 32) starting.
+Node 6 (of 32) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.720000e-07 seconds.
+Local 6 approx of PI with 31250000 iterations:
+	-is 3.140526
+	-has an error -1.066871e-03
+	-took 6.773885e-01 seconds
+	-quality -1.383726e+03
+Node 2 (of 32) starting.
+Node 2 (of 32) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.040000e-07 seconds.
+Local 2 approx of PI with 31250000 iterations:
+	-is 3.142368
+	-has an error 7.753519e-04
+	-took 6.778091e-01 seconds
+	-quality 1.902803e+03
+Node 14 (of 32) starting.
+Node 14 (of 32) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.850000e-07 seconds.
+Local 14 approx of PI with 31250000 iterations:
+	-is 3.141759
+	-has an error 1.666002e-04
+	-took 6.780045e-01 seconds
+	-quality 8.853032e+03
+Node 12 (of 32) starting.
+Node 12 (of 32) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.360000e-07 seconds.
+Local 12 approx of PI with 31250000 iterations:
+	-is 3.140875
+	-has an error -7.175931e-04
+	-took 6.777051e-01 seconds
+	-quality -2.056274e+03
+Node 9 (of 32) starting.
+Node 9 (of 32) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.320000e-07 seconds.
+Local 9 approx of PI with 31250000 iterations:
+	-is 3.143451
+	-has an error 1.858006e-03
+	-took 7.119765e-01 seconds
+	-quality 7.559398e+02
+Node 11 (of 32) starting.
+Node 11 (of 32) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.340000e-06 seconds.
+Local 11 approx of PI with 31250000 iterations:
+	-is 3.141796
+	-has an error 2.036839e-04
+	-took 7.119153e-01 seconds
+	-quality 6.896280e+03
+Node 13 (of 32) starting.
+Node 13 (of 32) has time resolution of 1.000000e-09 seconds and a measure overhead of 4.790000e-07 seconds.
+Local 13 approx of PI with 31250000 iterations:
+	-is 3.142763
+	-has an error 1.170589e-03
+	-took 7.122614e-01 seconds
+	-quality 1.199378e+03
+Node 1 (of 32) starting.
+Node 1 (of 32) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.480000e-07 seconds.
+Local 1 approx of PI with 31250000 iterations:
+	-is 3.145266
+	-has an error 3.673493e-03
+	-took 7.095560e-01 seconds
+	-quality 3.836490e+02
+Node 5 (of 32) starting.
+Node 5 (of 32) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.930000e-07 seconds.
+Local 5 approx of PI with 31250000 iterations:
+	-is 3.142210
+	-has an error 6.177903e-04
+	-took 7.124938e-01 seconds
+	-quality 2.271840e+03
+Node 3 (of 32) starting.
+Node 3 (of 32) has time resolution of 1.000000e-09 seconds and a measure overhead of 6.420000e-07 seconds.
+Local 3 approx of PI with 31250000 iterations:
+	-is 3.141431
+	-has an error -1.611818e-04
+	-took 7.123421e-01 seconds
+	-quality -8.709544e+03
+Node 7 (of 32) starting.
+Node 7 (of 32) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.740000e-07 seconds.
+Local 7 approx of PI with 31250000 iterations:
+	-is 3.142314
+	-has an error 7.212439e-04
+	-took 7.125976e-01 seconds
+	-quality 1.945689e+03
+Node 15 (of 32) starting.
+Node 15 (of 32) has time resolution of 1.000000e-09 seconds and a measure overhead of 5.130000e-07 seconds.
+Local 15 approx of PI with 31250000 iterations:
+	-is 3.141645
+	-has an error 5.220317e-05
+	-took 7.132880e-01 seconds
+	-quality 2.685581e+04
+Node 0 (of 32) starting.
+Node 0 (of 32) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.610000e-07 seconds.
+Local 0 approx of PI with 31250000 iterations:
+	-is 3.142628
+	-has an error 1.035065e-03
+	-took 6.794908e-01 seconds
+	-quality 1.421834e+03
+Global approx of PI with 31250000 iterations:
+	-is 3.142069
+	-has an error 4.766498e-04
+	-took 7.184837e-01 seconds
+	-quality 2.920005e+03
+Node 28 (of 32) starting.
+Node 28 (of 32) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.400000e-07 seconds.
+Local 28 approx of PI with 31250000 iterations:
+	-is 3.141888
+	-has an error 2.957002e-04
+	-took 6.605060e-01 seconds
+	-quality 5.120020e+03
+Node 20 (of 32) starting.
+Node 20 (of 32) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.050000e-07 seconds.
+Local 20 approx of PI with 31250000 iterations:
+	-is 3.139996
+	-has an error -1.596270e-03
+	-took 6.616138e-01 seconds
+	-quality -9.468669e+02
+Node 22 (of 32) starting.
+Node 22 (of 32) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.550000e-07 seconds.
+Local 22 approx of PI with 31250000 iterations:
+	-is 3.143263
+	-has an error 1.670338e-03
+	-took 6.616938e-01 seconds
+	-quality 9.047708e+02
+Node 24 (of 32) starting.
+Node 24 (of 32) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.390000e-07 seconds.
+Local 24 approx of PI with 31250000 iterations:
+	-is 3.142201
+	-has an error 6.081088e-04
+	-took 6.588073e-01 seconds
+	-quality 2.496090e+03
+Node 26 (of 32) starting.
+Node 26 (of 32) has time resolution of 1.000000e-09 seconds and a measure overhead of 9.570000e-07 seconds.
+Local 26 approx of PI with 31250000 iterations:
+	-is 3.140631
+	-has an error -9.615515e-04
+	-took 6.564707e-01 seconds
+	-quality -1.584208e+03
+Node 30 (of 32) starting.
+Node 30 (of 32) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.800000e-07 seconds.
+Local 30 approx of PI with 31250000 iterations:
+	-is 3.141469
+	-has an error -1.234872e-04
+	-took 6.616959e-01 seconds
+	-quality -1.223825e+04
+Node 16 (of 32) starting.
+Node 16 (of 32) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.990000e-07 seconds.
+Local 16 approx of PI with 31250000 iterations:
+	-is 3.140935
+	-has an error -6.578740e-04
+	-took 6.603910e-01 seconds
+	-quality -2.301740e+03
+Node 29 (of 32) starting.
+Node 29 (of 32) has time resolution of 1.000000e-09 seconds and a measure overhead of 1.740000e-07 seconds.
+Local 29 approx of PI with 31250000 iterations:
+	-is 3.142714
+	-has an error 1.120998e-03
+	-took 6.602749e-01 seconds
+	-quality 1.351047e+03
+Node 31 (of 32) starting.
+Node 31 (of 32) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.910000e-07 seconds.
+Local 31 approx of PI with 31250000 iterations:
+	-is 3.140637
+	-has an error -9.557690e-04
+	-took 6.618799e-01 seconds
+	-quality -1.580767e+03
+Node 25 (of 32) starting.
+Node 25 (of 32) has time resolution of 1.000000e-09 seconds and a measure overhead of 9.910000e-07 seconds.
+Local 25 approx of PI with 31250000 iterations:
+	-is 3.142027
+	-has an error 4.339896e-04
+	-took 6.598541e-01 seconds
+	-quality 3.491989e+03
+Node 18 (of 32) starting.
+Node 18 (of 32) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.790000e-07 seconds.
+Local 18 approx of PI with 31250000 iterations:
+	-is 3.141295
+	-has an error -2.973189e-04
+	-took 6.610922e-01 seconds
+	-quality -5.087629e+03
+Node 23 (of 32) starting.
+Node 23 (of 32) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.180000e-07 seconds.
+Local 23 approx of PI with 31250000 iterations:
+	-is 3.141995
+	-has an error 4.027643e-04
+	-took 6.592184e-01 seconds
+	-quality 3.766342e+03
+Node 17 (of 32) starting.
+Node 17 (of 32) has time resolution of 1.000000e-09 seconds and a measure overhead of 2.980000e-07 seconds.
+Local 17 approx of PI with 31250000 iterations:
+	-is 3.141881
+	-has an error 2.885433e-04
+	-took 6.608860e-01 seconds
+	-quality 5.243998e+03
+Node 27 (of 32) starting.
+Node 27 (of 32) has time resolution of 1.000000e-09 seconds and a measure overhead of 5.130000e-07 seconds.
+Local 27 approx of PI with 31250000 iterations:
+	-is 3.141410
+	-has an error -1.829168e-04
+	-took 6.609511e-01 seconds
+	-quality -8.271365e+03
+Node 21 (of 32) starting.
+Node 21 (of 32) has time resolution of 1.000000e-09 seconds and a measure overhead of 3.360000e-07 seconds.
+Local 21 approx of PI with 31250000 iterations:
+	-is 3.142521
+	-has an error 9.281684e-04
+	-took 6.611180e-01 seconds
+	-quality 1.629650e+03
+Terminado todas las ejecuciones
