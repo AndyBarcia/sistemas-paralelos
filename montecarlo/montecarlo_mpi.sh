@@ -6,7 +6,7 @@
 #SBATCH -o myjob.%j.out      # stdout; %j expands to jobid
 #SBATCH -e myjob.%j.err      # stderr; skip to combine stdout and stderr
 #SBATCH -N 4                 # Number of nodes, not cores
-#SBATCH -n 32                # Total number of MPI tasks
+#SBATCH -n 35                # Total number of MPI tasks. At least 1 per node.
 #SBATCH -t 00:10:00          # max time
 #SBATCH --mem=4G             # memory per core demanded
 

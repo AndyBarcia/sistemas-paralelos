@@ -85,7 +85,7 @@ int main(int argc, char **argv) {
 	// es simétrica, duplicar para obtener la integral de [-1,1].
 	double local_total = (total * 2.0) / (double) iterations;
 	double t_elapsed_local = (t_end_local - t_start) - measure_overhead;
-	double error_local = abs(local_total - REAL_PI);
+	double error_local = fabs(local_total - REAL_PI);
 	double quality_local = 1.0 / (t_elapsed_local * error_local);
 
 	printf("Local %d approx of PI with %ld iterations:\n\
@@ -107,7 +107,7 @@ int main(int argc, char **argv) {
 		double collective_total = (total * 2.0) / (double) iterations_total;
 		double t_end = MPI_Wtime();
 		double t_elapsed = (t_end - t_start) - measure_overhead;
-		double error = abs(collective_total - REAL_PI);
+		double error = fabs(collective_total - REAL_PI);
 		double quality = 1.0 / (t_elapsed * error);
 
 		printf("Global approx of PI with %ld iterations:\n\
