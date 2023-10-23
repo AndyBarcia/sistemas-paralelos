@@ -6,8 +6,8 @@
 #SBATCH -o myjob.%j.out      # stdout; %j expands to jobid
 #SBATCH -e myjob.%j.err      # stderr; skip to combine stdout and stderr
 #SBATCH -N 4                 # Number of nodes, not cores
-#SBATCH -n 35                # Total number of MPI tasks. At least 1 per node.
-#SBATCH -t 00:10:00          # max time
+#SBATCH -n 64                # Total number of MPI tasks. At least 1 per node.
+#SBATCH -t 00:20:00          # max time
 #SBATCH --mem=4G             # memory per core demanded
 
 #module load cesga/2020 intel impi
@@ -19,9 +19,19 @@ for N in {1..4}; do
         # número de nodos (no tiene sentido tener menos procesadores que
         # nodos, pues necesariamente habría nodos no utilizados).
         if [ "$n" -ge "$N" ]; then
-            echo "Ejecutando con $N nodos y $n procesadores"
-            # Ejecuta el comando srun con el valor actual de i
-            srun -N$N -n$n montecarlo_mpi 1000000000
+            # Sólo probar múltiples iteraciones si hay 16 iteraciones y 2 nodos.
+            # En el resto, probar sólo con 1000000000 de iteraciones.
+            if [ "$n" -eq 16 ] && [ "$N" -eq 2 ]; then
+                for its in 1000 10000 100000 1000000 10000000 100000000 1000000000 10000000000; do
+                    echo "Ejecutando con $N nodos, $n procesadores y $its iteraciones"
+                    # Ejecuta el comando srun con el valor actual de i
+                    srun -N$N -n$n montecarlo_mpi $its
+                done
+            else
+                echo "Ejecutando con $N nodos, $n procesadores y 1000000000 iteraciones"
+                # Ejecuta el comando srun con el valor actual de i
+                srun -N$N -n$n montecarlo_mpi 1000000000
+            fi
         fi
     done
 done
