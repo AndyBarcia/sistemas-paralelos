@@ -103,8 +103,8 @@ int main(int argc, char **argv) {
 
 	// Calcular cuantos escalones hacen falta para todos los procesos,
 	// y cuántos procesos quedan sueltos (no llenan un escalón completo).
-    int sobran;
-    int niveles = ilog2(npes, &sobran);
+	int sobran;
+	int niveles = ilog2(npes, &sobran);
 	// Calcular el escalón de nuestro proceso, y qué posición tiene
     // el proceso dentro del escalón.
 	int local_i;
@@ -121,8 +121,8 @@ int main(int argc, char **argv) {
 		// En el último nivel, el número de receives depende de
 		// cuantos procesos queden sueltos. Y habrá procesos
 		// que a lo mejor no reciben nada.
-		receives = sobran - (local_i*2);
-		receives = receives > 0 ? receives : 0;
+		int faltan = sobran - (local_i*2);
+		receives = faltan > 0 ? (faltan <= 2 ? faltan : 2) : 0;
 	} else {
 		// Los procesos sueltos no tienen que recibir nada.
 		receives = 0;

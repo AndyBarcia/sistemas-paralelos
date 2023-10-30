@@ -20,7 +20,7 @@ int main() {
 	// ---| nivel 0
 	//
 
-    int n = 10;
+    int n = 7;
 
     int sobran;
     int niveles = ilog2(n, &sobran);
@@ -49,8 +49,9 @@ int main() {
             // cuantos procesos queden sueltos.
             printf("\tLocal i %d\n", local_i);
 
-            receives = sobran - (local_i*2);
-            receives = receives > 0 ? receives : 0;
+            // Calcular cuantos procesos faltan por tener receptor.
+            int faltan = sobran - (local_i*2);
+            receives = faltan > 0 ? (faltan <= 2 ? faltan : 2) : 0;
         } else {
             // Los procesos sueltos no tienen que recibir nada.
             receives = 0;

@@ -5,15 +5,19 @@
 #SBATCH -J myjob             # Job name
 #SBATCH -o myjob.%j.out      # stdout; %j expands to jobid
 #SBATCH -e myjob.%j.err      # stderr; skip to combine stdout and stderr
-#SBATCH -N 4                 # Number of nodes, not cores
+#SBATCH -N 8                 # Number of nodes, not cores
 #SBATCH -n 64                # Total number of MPI tasks. At least 1 per node.
-#SBATCH -t 00:20:00          # max time
+#SBATCH -t 01:00:00          # max time
 #SBATCH --mem=4G             # memory per core demanded
 
 #module load cesga/2020 intel impi
 module load cesga/2020 gcc openmpi/4.1.1_ft3
 
-for N in {1..4}; do
+if [ $# -ne 1 ]; then
+  echo "Debes indicar qué archivo se va a ejecutar."
+fi
+
+for N in {1..8}; do
     for n in {1..32}; do
         # Sólo ejecutar si el número de procesadores es mayor o igual al
         # número de nodos (no tiene sentido tener menos procesadores que
@@ -21,16 +25,16 @@ for N in {1..4}; do
         if [ "$n" -ge "$N" ]; then
             # Sólo probar múltiples iteraciones si hay 16 iteraciones y 2 nodos.
             # En el resto, probar sólo con 1000000000 de iteraciones.
-            if [ "$n" -eq 16 ] && [ "$N" -eq 2 ]; then
-                for its in 1000 10000 100000 1000000 10000000 100000000 1000000000 10000000000; do
+            if [ "$n" -eq 16 ] && [ "$N" -eq 4 ]; then
+                for its in 1000 10000 100000 1000000 10000000 100000000 1000000000 10000000000 100000000000; do
                     echo "Ejecutando con $N nodos, $n procesadores y $its iteraciones"
                     # Ejecuta el comando srun con el valor actual de i
-                    srun -N$N -n$n montecarlo_mpi $its
+                    srun -N$N -n$n $1 $its
                 done
             else
-                echo "Ejecutando con $N nodos, $n procesadores y 1000000000 iteraciones"
+                echo "Ejecutando con $N nodos, $n procesadores y 10000000000 iteraciones"
                 # Ejecuta el comando srun con el valor actual de i
-                srun -N$N -n$n montecarlo_mpi 1000000000
+                srun -N$N -n$n $1 10000000000
             fi
         fi
     done
