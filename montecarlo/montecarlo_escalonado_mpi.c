@@ -92,7 +92,7 @@ int main(int argc, char **argv) {
 	// recibe datos de dos procesos del escalón superior, y cada 
 	// proceso (excepto ROOT) manda datos a su correspondiente
 	// del escalón inferior.
-    //
+	//
 	//                          8 9
 	//                4 5 6 7 |--------- sobrantes
 	//          2 3 |---------| nivel 3
@@ -105,7 +105,8 @@ int main(int argc, char **argv) {
 	// y cuántos procesos quedan sueltos (no llenan un escalón completo).
     int sobran;
     int niveles = ilog2(npes, &sobran);
-	// Calcular el escalón de nuestro proceso, y qué posición tiene.
+	// Calcular el escalón de nuestro proceso, y qué posición tiene
+    // el proceso dentro del escalón.
 	int local_i;
 	int nivel = ilog2(node, &local_i);
 
