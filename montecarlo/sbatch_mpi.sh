@@ -6,8 +6,8 @@
 #SBATCH -o myjob.%j.out      # stdout; %j expands to jobid
 #SBATCH -e myjob.%j.err      # stderr; skip to combine stdout and stderr
 #SBATCH -N 8                 # Number of nodes, not cores
-#SBATCH -n 64                # Total number of MPI tasks. At least 1 per node.
-#SBATCH -t 01:00:00          # max time
+#SBATCH -n 128               # Total number of MPI tasks. At least 1 per node.
+#SBATCH -t 01:30:00          # max time
 #SBATCH --mem=4G             # memory per core demanded
 
 #module load cesga/2020 intel impi
